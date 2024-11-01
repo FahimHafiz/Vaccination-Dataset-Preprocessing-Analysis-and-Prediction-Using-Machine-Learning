@@ -1,0 +1,583 @@
+﻿UniqueID,AdmDate,Age (month),Case Definition,Zila,Address,Outcome,Discharge Date
+1,2010-12-01 00:00:00,14,Very Severe Disease,Mymensingh,Address1,Referred,2010-12-23 00:00:00
+2,2010-02-11 00:00:00,6,Very Severe Disease,Rangpur,Address2,Referred,2010-03-01 00:00:00
+3,2010-10-04 00:00:00,38,,Mymensingh,Address3,Discharged,2010-10-14 00:00:00
+4,2010-02-05 00:00:00,50,Missing,Rangpur,Address4,Died,2010-02-16 00:00:00
+5,2010-01-26 00:00:00,23,Meningitis,Rangpur,Address5,DORB,2010-01-29 00:00:00
+6,2010-05-12 00:00:00,11,Missing,Mymensingh,Address6,DORB,2010-06-02 00:00:00
+7,2010-12-14 00:00:00,33,Pneumonia,Mymensingh,Address7,DORB,2010-12-26 00:00:00
+8,2010-03-22 00:00:00,26,Missing,Chittagong,Address8,DORB,2010-04-14 00:00:00
+9,2010-09-14 00:00:00,38,Severe Pneumonia,Rangpur,Address9,Died,2010-09-23 00:00:00
+10,2010-03-08 00:00:00,49,Severe Pneumonia,Dhaka,Address10,Referred,2010-03-10 00:00:00
+11,2010-07-15 00:00:00,12,,Rajshahi,Address11,Referred,2010-08-04 00:00:00
+12,2010-10-01 00:00:00,2,Missing,Rajshahi,Address12,DORB,2010-10-18 00:00:00
+13,2010-06-07 00:00:00,59,Pneumonia,Chittagong,Address13,Died,2010-07-02 00:00:00
+14,2010-09-18 00:00:00,36,Severe Pneumonia,Mymensingh,Address14,Died,2010-10-07 00:00:00
+15,2010-04-26 00:00:00,3,Missing,Mymensingh,Address15,Died,2010-05-04 00:00:00
+16,2010-04-05 00:00:00,29,Severe Pneumonia,Rangpur,Address16,Died,2010-04-06 00:00:00
+17,2010-07-14 00:00:00,16,Pneumonia,Khulna,Address17,Discharged,2010-08-12 00:00:00
+18,2010-04-13 00:00:00,2,Severe Pneumonia,Khulna,Address18,DORB,2010-05-09 00:00:00
+19,2010-02-28 00:00:00,6,,Dhaka,Address19,Discharged,2010-03-19 00:00:00
+20,2010-02-04 00:00:00,35,,Rangpur,Address20,Referred,2010-02-20 00:00:00
+21,2010-06-10 00:00:00,5,Pneumonia,Dhaka,Address21,DORB,2010-06-15 00:00:00
+22,2010-05-26 00:00:00,14,Not eligible,Rangpur,Address22,Referred,2010-06-13 00:00:00
+23,2010-09-17 00:00:00,20,Pneumonia,Mymensingh,Address23,DORB,2010-09-29 00:00:00
+24,2010-10-03 00:00:00,19,Missing,Rajshahi,Address24,Referred,2010-10-17 00:00:00
+25,2010-01-02 00:00:00,20,Very Severe Disease,Rangpur,Address25,Discharged,2010-01-15 00:00:00
+26,2010-12-11 00:00:00,28,Meningitis,Chittagong,Address26,DORB,2011-01-07 00:00:00
+27,2010-02-14 00:00:00,50,,Rangpur,Address27,DORB,2010-03-10 00:00:00
+28,2010-05-14 00:00:00,19,Meningitis,Chittagong,Address28,Discharged,2010-05-21 00:00:00
+29,2010-04-26 00:00:00,11,Severe Pneumonia,Mymensingh,Address29,Died,2010-05-12 00:00:00
+30,2010-04-24 00:00:00,5,Very Severe Disease,Barisal,Address30,Discharged,2010-05-04 00:00:00
+31,2010-12-16 00:00:00,42,Missing,Sylhet,Address31,Died,2011-01-12 00:00:00
+32,2010-02-06 00:00:00,16,Pneumonia,Mymensingh,Address32,Referred,2010-03-02 00:00:00
+33,2010-07-08 00:00:00,53,Not eligible,Sylhet,Address33,DORB,2010-07-13 00:00:00
+34,2010-09-26 00:00:00,7,,Chittagong,Address34,Referred,2010-10-20 00:00:00
+35,2010-08-21 00:00:00,20,,Barisal,Address35,Discharged,2010-09-16 00:00:00
+36,2010-05-16 00:00:00,7,Very Severe Disease,Khulna,Address36,Referred,2010-05-17 00:00:00
+37,2010-01-28 00:00:00,45,Missing,Dhaka,Address37,DORB,2010-01-29 00:00:00
+38,2010-11-02 00:00:00,25,,Khulna,Address38,Died,2010-11-26 00:00:00
+39,2010-01-11 00:00:00,42,Missing,Chittagong,Address39,DORB,2010-01-12 00:00:00
+40,2010-12-24 00:00:00,22,Missing,Rajshahi,Address40,DORB,2011-01-14 00:00:00
+41,2010-04-08 00:00:00,34,Missing,Sylhet,Address41,Died,2010-04-20 00:00:00
+42,2010-06-01 00:00:00,5,Meningitis,Rangpur,Address42,Referred,2010-06-26 00:00:00
+43,2010-06-19 00:00:00,20,,Chittagong,Address43,DORB,2010-07-15 00:00:00
+44,2010-08-10 00:00:00,57,Missing,Mymensingh,Address44,Died,2010-08-25 00:00:00
+45,2010-01-18 00:00:00,27,Very Severe Disease,Rajshahi,Address45,Referred,2010-02-14 00:00:00
+46,2010-11-26 00:00:00,54,Very Severe Disease,Rangpur,Address46,Died,2010-11-28 00:00:00
+47,2010-11-18 00:00:00,48,Pneumonia,Rangpur,Address47,Referred,2010-11-26 00:00:00
+48,2010-01-10 00:00:00,31,Severe Pneumonia,Rangpur,Address48,Discharged,2010-02-06 00:00:00
+49,2010-08-07 00:00:00,18,Meningitis,Sylhet,Address49,Referred,2010-08-24 00:00:00
+50,2010-02-04 00:00:00,39,Severe Pneumonia,Khulna,Address50,Referred,2010-02-28 00:00:00
+51,2010-09-03 00:00:00,15,Not eligible,Barisal,Address51,Discharged,2010-09-08 00:00:00
+52,2010-04-22 00:00:00,18,Very Severe Disease,Rangpur,Address52,Discharged,2010-05-06 00:00:00
+53,2010-10-10 00:00:00,12,Very Severe Disease,Sylhet,Address53,Referred,2010-11-07 00:00:00
+54,2010-01-17 00:00:00,42,Missing,Dhaka,Address54,Referred,2010-01-28 00:00:00
+55,2010-05-16 00:00:00,54,Missing,Sylhet,Address55,Discharged,2010-06-15 00:00:00
+56,2010-08-28 00:00:00,13,Severe Pneumonia,Barisal,Address56,Referred,2010-09-20 00:00:00
+57,2010-03-15 00:00:00,9,Not eligible,Barisal,Address57,Died,2010-04-06 00:00:00
+58,2010-06-15 00:00:00,42,,Mymensingh,Address58,Died,2010-07-15 00:00:00
+59,2010-08-04 00:00:00,20,Severe Pneumonia,Rajshahi,Address59,Referred,2010-08-16 00:00:00
+60,2010-05-05 00:00:00,47,,Mymensingh,Address60,DORB,2010-05-15 00:00:00
+61,2010-09-17 00:00:00,56,Severe Pneumonia,Mymensingh,Address61,Discharged,2010-09-28 00:00:00
+62,2010-04-07 00:00:00,49,Pneumonia,Barisal,Address62,DORB,2010-04-10 00:00:00
+63,2010-06-02 00:00:00,56,Very Severe Disease,Mymensingh,Address63,Died,2010-06-21 00:00:00
+64,2010-03-26 00:00:00,13,Very Severe Disease,Mymensingh,Address64,Died,2010-04-07 00:00:00
+65,2010-02-26 00:00:00,56,Severe Pneumonia,Barisal,Address65,Referred,2010-03-11 00:00:00
+66,2010-12-20 00:00:00,59,Not eligible,Rangpur,Address66,Died,2010-12-23 00:00:00
+67,2010-09-07 00:00:00,54,Missing,Dhaka,Address67,DORB,2010-10-07 00:00:00
+68,2010-02-19 00:00:00,40,Not eligible,Sylhet,Address68,Discharged,2010-02-24 00:00:00
+69,2010-01-12 00:00:00,37,Not eligible,Mymensingh,Address69,DORB,2010-01-18 00:00:00
+70,2010-04-24 00:00:00,8,Severe Pneumonia,Khulna,Address70,Referred,2010-04-27 00:00:00
+71,2010-03-04 00:00:00,18,Missing,Rajshahi,Address71,DORB,2010-03-10 00:00:00
+72,2010-12-13 00:00:00,31,Very Severe Disease,Khulna,Address72,Died,2011-01-03 00:00:00
+73,2010-11-05 00:00:00,24,,Chittagong,Address73,Died,2010-11-16 00:00:00
+74,2010-10-01 00:00:00,37,Pneumonia,Rajshahi,Address74,Discharged,2010-10-08 00:00:00
+75,2010-07-25 00:00:00,46,,Rangpur,Address75,Died,2010-08-09 00:00:00
+76,2010-11-09 00:00:00,40,,Khulna,Address76,Died,2010-11-18 00:00:00
+77,2010-11-14 00:00:00,49,Missing,Mymensingh,Address77,DORB,2010-12-06 00:00:00
+78,2010-05-24 00:00:00,46,Severe Pneumonia,Rajshahi,Address78,Discharged,2010-06-14 00:00:00
+79,2010-09-11 00:00:00,10,Very Severe Disease,Dhaka,Address79,Referred,2010-10-04 00:00:00
+80,2010-03-24 00:00:00,20,Not eligible,Khulna,Address80,Died,2010-04-15 00:00:00
+81,2011-08-11 00:00:00,10,Pneumonia,Rangpur,Address81,DORB,2011-08-15 00:00:00
+82,2011-03-19 00:00:00,20,,Rangpur,Address82,DORB,2011-04-12 00:00:00
+83,2011-11-23 00:00:00,18,Severe Pneumonia,Rangpur,Address83,Discharged,2011-11-28 00:00:00
+84,2011-10-10 00:00:00,6,Pneumonia,Sylhet,Address84,Died,2011-10-20 00:00:00
+85,2011-02-13 00:00:00,2,Severe Pneumonia,Barisal,Address85,DORB,2011-03-06 00:00:00
+86,2011-03-20 00:00:00,51,Meningitis,Mymensingh,Address86,Referred,2011-04-09 00:00:00
+87,2011-04-19 00:00:00,26,Missing,Dhaka,Address87,Referred,2011-05-05 00:00:00
+88,2011-01-18 00:00:00,14,Missing,Khulna,Address88,DORB,2011-01-21 00:00:00
+89,2011-10-20 00:00:00,1,Pneumonia,Chittagong,Address89,Referred,2011-10-30 00:00:00
+90,2011-11-18 00:00:00,20,,Sylhet,Address90,Referred,2011-12-06 00:00:00
+91,2011-03-01 00:00:00,56,Severe Pneumonia,Mymensingh,Address91,DORB,2011-03-24 00:00:00
+92,2011-03-10 00:00:00,50,Meningitis,Khulna,Address92,DORB,2011-03-15 00:00:00
+93,2011-10-13 00:00:00,56,Very Severe Disease,Mymensingh,Address93,DORB,2011-10-23 00:00:00
+94,2011-02-07 00:00:00,30,Not eligible,Sylhet,Address94,DORB,2011-02-10 00:00:00
+95,2011-02-16 00:00:00,52,,Rajshahi,Address95,Discharged,2011-02-17 00:00:00
+96,2011-03-10 00:00:00,15,Pneumonia,Chittagong,Address96,Referred,2011-03-14 00:00:00
+97,2011-10-04 00:00:00,7,Pneumonia,Khulna,Address97,DORB,2011-10-23 00:00:00
+98,2011-09-21 00:00:00,27,Very Severe Disease,Rajshahi,Address98,Died,2011-09-28 00:00:00
+99,2011-04-11 00:00:00,12,Pneumonia,Dhaka,Address99,Discharged,2011-04-18 00:00:00
+100,2011-10-17 00:00:00,14,Pneumonia,Rangpur,Address100,Referred,2011-10-30 00:00:00
+101,2011-09-21 00:00:00,8,,Rajshahi,Address101,DORB,2011-10-03 00:00:00
+102,2011-03-18 00:00:00,56,Meningitis,Barisal,Address102,Discharged,2011-03-21 00:00:00
+103,2011-04-05 00:00:00,18,Meningitis,Chittagong,Address103,Died,2011-04-18 00:00:00
+104,2011-07-27 00:00:00,29,Very Severe Disease,Khulna,Address104,DORB,2011-07-28 00:00:00
+105,2011-03-15 00:00:00,43,Pneumonia,Sylhet,Address105,Discharged,2011-03-19 00:00:00
+106,2011-10-15 00:00:00,52,Not eligible,Dhaka,Address106,DORB,2011-11-06 00:00:00
+107,2011-09-17 00:00:00,38,Missing,Chittagong,Address107,Died,2011-10-01 00:00:00
+108,2011-10-10 00:00:00,43,Not eligible,Mymensingh,Address108,DORB,2011-10-12 00:00:00
+109,2011-07-02 00:00:00,42,Missing,Khulna,Address109,Referred,2011-07-25 00:00:00
+110,2011-12-17 00:00:00,21,Pneumonia,Sylhet,Address110,Died,2011-12-24 00:00:00
+111,2011-07-18 00:00:00,10,Missing,Rajshahi,Address111,Discharged,2011-08-14 00:00:00
+112,2011-02-17 00:00:00,52,Pneumonia,Sylhet,Address112,Referred,2011-03-13 00:00:00
+113,2011-04-01 00:00:00,4,Not eligible,Mymensingh,Address113,Referred,2011-04-19 00:00:00
+114,2011-10-13 00:00:00,32,Not eligible,Khulna,Address114,Discharged,2011-10-23 00:00:00
+115,2011-06-20 00:00:00,40,Pneumonia,Sylhet,Address115,Referred,2011-07-18 00:00:00
+116,2011-08-17 00:00:00,15,Severe Pneumonia,Barisal,Address116,Discharged,2011-09-10 00:00:00
+117,2011-11-03 00:00:00,55,Not eligible,Mymensingh,Address117,DORB,2011-11-29 00:00:00
+118,2011-01-08 00:00:00,38,Meningitis,Rajshahi,Address118,DORB,2011-01-28 00:00:00
+119,2011-02-11 00:00:00,46,Meningitis,Sylhet,Address119,Discharged,2011-03-01 00:00:00
+120,2011-07-15 00:00:00,39,Meningitis,Mymensingh,Address120,DORB,2011-07-18 00:00:00
+121,2011-10-09 00:00:00,47,Meningitis,Rajshahi,Address121,Died,2011-11-02 00:00:00
+122,2011-11-10 00:00:00,44,Very Severe Disease,Rajshahi,Address122,Discharged,2011-11-18 00:00:00
+123,2011-08-07 00:00:00,44,Meningitis,Khulna,Address123,Died,2011-08-16 00:00:00
+124,2011-05-12 00:00:00,19,Missing,Dhaka,Address124,Discharged,2011-05-26 00:00:00
+125,2011-10-18 00:00:00,12,Not eligible,Sylhet,Address125,Referred,2011-10-25 00:00:00
+126,2011-12-25 00:00:00,1,Missing,Dhaka,Address126,Discharged,2012-01-15 00:00:00
+127,2011-03-20 00:00:00,15,,Barisal,Address127,Died,2011-04-01 00:00:00
+128,2011-05-03 00:00:00,10,,Barisal,Address128,DORB,2011-05-28 00:00:00
+129,2011-02-13 00:00:00,17,Meningitis,Rangpur,Address129,DORB,2011-02-20 00:00:00
+130,2011-01-02 00:00:00,52,Missing,Mymensingh,Address130,DORB,2011-01-07 00:00:00
+131,2011-08-03 00:00:00,57,Missing,Sylhet,Address131,Died,2011-09-02 00:00:00
+132,2011-05-11 00:00:00,10,Not eligible,Dhaka,Address132,DORB,2011-05-28 00:00:00
+133,2011-09-02 00:00:00,41,Severe Pneumonia,Rangpur,Address133,Referred,2011-09-08 00:00:00
+134,2011-01-10 00:00:00,38,Missing,Barisal,Address134,Referred,2011-02-05 00:00:00
+135,2011-08-11 00:00:00,36,Meningitis,Rajshahi,Address135,Referred,2011-08-22 00:00:00
+136,2011-11-17 00:00:00,32,,Rangpur,Address136,Discharged,2011-11-26 00:00:00
+137,2011-01-19 00:00:00,45,Pneumonia,Rangpur,Address137,Discharged,2011-02-14 00:00:00
+138,2011-03-11 00:00:00,41,Meningitis,Barisal,Address138,Died,2011-03-12 00:00:00
+139,2011-06-28 00:00:00,16,Very Severe Disease,Dhaka,Address139,Died,2011-07-20 00:00:00
+140,2011-11-04 00:00:00,57,Missing,Dhaka,Address140,DORB,2011-11-22 00:00:00
+141,2011-05-28 00:00:00,22,Missing,Barisal,Address141,Discharged,2011-06-24 00:00:00
+142,2011-03-06 00:00:00,17,Not eligible,Barisal,Address142,Referred,2011-04-05 00:00:00
+143,2011-11-26 00:00:00,16,Severe Pneumonia,Dhaka,Address143,DORB,2011-12-07 00:00:00
+144,2011-01-17 00:00:00,17,Severe Pneumonia,Khulna,Address144,Died,2011-02-09 00:00:00
+145,2011-09-24 00:00:00,24,Severe Pneumonia,Rajshahi,Address145,Died,2011-10-09 00:00:00
+146,2011-05-04 00:00:00,54,Missing,Rajshahi,Address146,Discharged,2011-05-13 00:00:00
+147,2011-05-14 00:00:00,18,Severe Pneumonia,Rajshahi,Address147,Died,2011-06-02 00:00:00
+148,2011-03-23 00:00:00,40,Missing,Rangpur,Address148,Died,2011-04-05 00:00:00
+149,2011-06-01 00:00:00,39,Pneumonia,Chittagong,Address149,Referred,2011-06-13 00:00:00
+150,2011-10-19 00:00:00,27,Severe Pneumonia,Barisal,Address150,Referred,2011-11-08 00:00:00
+151,2011-05-07 00:00:00,34,Pneumonia,Dhaka,Address151,Died,2011-05-31 00:00:00
+152,2011-11-18 00:00:00,13,Severe Pneumonia,Chittagong,Address152,Referred,2011-12-10 00:00:00
+153,2011-07-26 00:00:00,30,,Rangpur,Address153,Discharged,2011-08-23 00:00:00
+154,2011-02-12 00:00:00,56,Pneumonia,Chittagong,Address154,Discharged,2011-03-10 00:00:00
+155,2011-08-12 00:00:00,45,Missing,Rangpur,Address155,Discharged,2011-08-28 00:00:00
+156,2011-03-23 00:00:00,12,Severe Pneumonia,Khulna,Address156,Died,2011-03-28 00:00:00
+157,2011-11-15 00:00:00,55,Severe Pneumonia,Mymensingh,Address157,DORB,2011-12-03 00:00:00
+158,2011-02-21 00:00:00,28,Very Severe Disease,Rangpur,Address158,DORB,2011-02-24 00:00:00
+159,2011-11-01 00:00:00,29,Not eligible,Rangpur,Address159,Died,2011-11-25 00:00:00
+160,2011-10-14 00:00:00,37,Not eligible,Rajshahi,Address160,Referred,2011-10-31 00:00:00
+161,2011-09-15 00:00:00,55,,Rajshahi,Address161,Referred,2011-10-02 00:00:00
+162,2011-01-16 00:00:00,29,Meningitis,Mymensingh,Address162,Died,2011-01-31 00:00:00
+163,2011-07-21 00:00:00,42,Pneumonia,Sylhet,Address163,Discharged,2011-08-12 00:00:00
+164,2011-12-22 00:00:00,1,,Chittagong,Address164,Discharged,2011-12-28 00:00:00
+165,2011-06-14 00:00:00,47,Not eligible,Mymensingh,Address165,Referred,2011-06-30 00:00:00
+166,2011-03-26 00:00:00,28,Missing,Mymensingh,Address166,Discharged,2011-04-08 00:00:00
+167,2011-10-05 00:00:00,35,,Rajshahi,Address167,Discharged,2011-10-09 00:00:00
+168,2011-10-25 00:00:00,22,Not eligible,Mymensingh,Address168,Discharged,2011-11-21 00:00:00
+169,2011-02-16 00:00:00,2,Missing,Dhaka,Address169,DORB,2011-02-21 00:00:00
+170,2011-01-09 00:00:00,28,Pneumonia,Khulna,Address170,DORB,2011-01-26 00:00:00
+171,2011-05-01 00:00:00,46,Severe Pneumonia,Rangpur,Address171,DORB,2011-05-06 00:00:00
+172,2011-02-19 00:00:00,46,Not eligible,Dhaka,Address172,DORB,2011-03-16 00:00:00
+173,2011-07-12 00:00:00,46,Not eligible,Dhaka,Address173,Discharged,2011-07-14 00:00:00
+174,2011-01-28 00:00:00,34,Missing,Khulna,Address174,Died,2011-02-05 00:00:00
+175,2011-10-08 00:00:00,46,Pneumonia,Rajshahi,Address175,Referred,2011-10-26 00:00:00
+176,2011-10-27 00:00:00,2,Very Severe Disease,Rangpur,Address176,Died,2011-11-16 00:00:00
+177,2011-08-24 00:00:00,2,Not eligible,Barisal,Address177,Discharged,2011-08-26 00:00:00
+178,2011-05-26 00:00:00,48,Severe Pneumonia,Khulna,Address178,Referred,2011-06-08 00:00:00
+179,2011-06-01 00:00:00,21,,Rangpur,Address179,Died,2011-06-07 00:00:00
+180,2011-04-22 00:00:00,38,Severe Pneumonia,Barisal,Address180,Discharged,2011-05-13 00:00:00
+181,2011-02-15 00:00:00,35,Not eligible,Chittagong,Address181,Died,2011-02-22 00:00:00
+182,2011-09-15 00:00:00,34,Missing,Mymensingh,Address182,Died,2011-09-25 00:00:00
+183,2011-09-11 00:00:00,12,Missing,Rangpur,Address183,Discharged,2011-10-04 00:00:00
+184,2011-07-06 00:00:00,44,Meningitis,Chittagong,Address184,Died,2011-08-02 00:00:00
+185,2011-12-26 00:00:00,8,Severe Pneumonia,Khulna,Address185,Referred,2012-01-03 00:00:00
+186,2012-10-12 00:00:00,12,Severe Pneumonia,Rangpur,Address186,Referred,2012-10-18 00:00:00
+187,2012-11-13 00:00:00,5,,Chittagong,Address187,Referred,2012-11-21 00:00:00
+188,2012-08-14 00:00:00,12,Severe Pneumonia,Dhaka,Address188,Referred,2012-09-05 00:00:00
+189,2012-07-02 00:00:00,4,Pneumonia,Barisal,Address189,DORB,2012-07-26 00:00:00
+190,2012-02-10 00:00:00,48,Not eligible,Rajshahi,Address190,Referred,2012-02-11 00:00:00
+191,2012-05-10 00:00:00,30,Not eligible,Dhaka,Address191,Referred,2012-05-25 00:00:00
+192,2012-03-08 00:00:00,3,Meningitis,Dhaka,Address192,Died,2012-03-14 00:00:00
+193,2012-03-25 00:00:00,35,Not eligible,Khulna,Address193,DORB,2012-03-27 00:00:00
+194,2012-03-16 00:00:00,1,Missing,Rajshahi,Address194,Died,2012-04-15 00:00:00
+195,2012-08-18 00:00:00,9,Pneumonia,Barisal,Address195,Referred,2012-08-22 00:00:00
+196,2012-12-16 00:00:00,36,Severe Pneumonia,Barisal,Address196,Discharged,2013-01-10 00:00:00
+197,2012-02-19 00:00:00,20,Not eligible,Dhaka,Address197,Referred,2012-03-18 00:00:00
+198,2012-02-05 00:00:00,2,Missing,Dhaka,Address198,Referred,2012-02-08 00:00:00
+199,2012-02-24 00:00:00,14,Severe Pneumonia,Rangpur,Address199,Referred,2012-02-29 00:00:00
+200,2012-06-25 00:00:00,7,,Dhaka,Address200,Referred,2012-07-16 00:00:00
+201,2012-08-12 00:00:00,42,Severe Pneumonia,Khulna,Address201,DORB,2012-08-27 00:00:00
+202,2012-11-07 00:00:00,9,Very Severe Disease,Sylhet,Address202,Referred,2012-12-03 00:00:00
+203,2012-10-07 00:00:00,26,Not eligible,Rajshahi,Address203,Referred,2012-10-21 00:00:00
+204,2012-12-18 00:00:00,16,Not eligible,Chittagong,Address204,Discharged,2013-01-14 00:00:00
+205,2012-06-16 00:00:00,15,Pneumonia,Khulna,Address205,Discharged,2012-06-20 00:00:00
+206,2012-03-03 00:00:00,3,Pneumonia,Mymensingh,Address206,Died,2012-03-31 00:00:00
+207,2012-08-15 00:00:00,18,Missing,Rangpur,Address207,Discharged,2012-09-03 00:00:00
+208,2012-02-08 00:00:00,29,Missing,Dhaka,Address208,Died,2012-03-09 00:00:00
+209,2012-03-02 00:00:00,6,,Sylhet,Address209,Died,2012-03-27 00:00:00
+210,2012-05-01 00:00:00,19,Severe Pneumonia,Rajshahi,Address210,DORB,2012-05-13 00:00:00
+211,2012-09-21 00:00:00,16,Missing,Barisal,Address211,Referred,2012-10-03 00:00:00
+212,2012-08-12 00:00:00,40,Severe Pneumonia,Sylhet,Address212,Discharged,2012-08-30 00:00:00
+213,2012-07-21 00:00:00,28,,Dhaka,Address213,Discharged,2012-08-20 00:00:00
+214,2012-10-19 00:00:00,5,Pneumonia,Sylhet,Address214,DORB,2012-11-16 00:00:00
+215,2012-03-24 00:00:00,21,,Khulna,Address215,Referred,2012-04-14 00:00:00
+216,2012-11-28 00:00:00,45,Missing,Mymensingh,Address216,Referred,2012-12-24 00:00:00
+217,2012-07-15 00:00:00,50,Not eligible,Sylhet,Address217,DORB,2012-07-19 00:00:00
+218,2012-10-07 00:00:00,22,,Mymensingh,Address218,Discharged,2012-10-10 00:00:00
+219,2012-07-27 00:00:00,36,Severe Pneumonia,Mymensingh,Address219,DORB,2012-08-14 00:00:00
+220,2012-01-04 00:00:00,46,Meningitis,Dhaka,Address220,Discharged,2012-01-13 00:00:00
+221,2012-10-26 00:00:00,29,Very Severe Disease,Dhaka,Address221,DORB,2012-11-03 00:00:00
+222,2012-02-06 00:00:00,27,,Dhaka,Address222,Discharged,2012-02-16 00:00:00
+223,2012-02-06 00:00:00,11,,Rajshahi,Address223,Discharged,2012-02-23 00:00:00
+224,2012-12-18 00:00:00,52,Pneumonia,Rajshahi,Address224,Died,2013-01-13 00:00:00
+225,2012-07-12 00:00:00,37,Missing,Chittagong,Address225,Discharged,2012-07-16 00:00:00
+226,2012-01-15 00:00:00,40,Pneumonia,Sylhet,Address226,Discharged,2012-01-29 00:00:00
+227,2012-05-10 00:00:00,36,Meningitis,Rangpur,Address227,Referred,2012-05-28 00:00:00
+228,2012-09-05 00:00:00,34,Severe Pneumonia,Sylhet,Address228,DORB,2012-09-16 00:00:00
+229,2012-12-13 00:00:00,34,Meningitis,Sylhet,Address229,Referred,2012-12-26 00:00:00
+230,2012-04-28 00:00:00,39,,Khulna,Address230,Discharged,2012-05-10 00:00:00
+231,2012-02-23 00:00:00,23,Not eligible,Rajshahi,Address231,Died,2012-02-28 00:00:00
+232,2012-11-10 00:00:00,59,Very Severe Disease,Rangpur,Address232,Discharged,2012-11-29 00:00:00
+233,2012-12-20 00:00:00,16,,Khulna,Address233,DORB,2013-01-16 00:00:00
+234,2012-12-15 00:00:00,42,,Rajshahi,Address234,Died,2013-01-02 00:00:00
+235,2012-02-22 00:00:00,48,Meningitis,Mymensingh,Address235,Discharged,2012-03-13 00:00:00
+236,2012-09-27 00:00:00,10,,Sylhet,Address236,Died,2012-10-09 00:00:00
+237,2012-06-05 00:00:00,44,Pneumonia,Mymensingh,Address237,Died,2012-06-10 00:00:00
+238,2012-09-07 00:00:00,25,Meningitis,Chittagong,Address238,Died,2012-09-18 00:00:00
+239,2012-08-02 00:00:00,25,Not eligible,Mymensingh,Address239,DORB,2012-08-29 00:00:00
+240,2012-10-17 00:00:00,4,Not eligible,Sylhet,Address240,Died,2012-11-05 00:00:00
+241,2012-08-25 00:00:00,16,Pneumonia,Chittagong,Address241,Died,2012-09-12 00:00:00
+242,2012-09-08 00:00:00,49,Missing,Chittagong,Address242,Referred,2012-10-05 00:00:00
+243,2012-06-07 00:00:00,8,Missing,Khulna,Address243,Referred,2012-07-05 00:00:00
+244,2012-03-24 00:00:00,57,,Sylhet,Address244,Discharged,2012-04-19 00:00:00
+245,2012-04-28 00:00:00,54,,Barisal,Address245,Discharged,2012-04-30 00:00:00
+246,2012-03-16 00:00:00,55,Very Severe Disease,Mymensingh,Address246,Referred,2012-04-13 00:00:00
+247,2012-02-13 00:00:00,27,Meningitis,Chittagong,Address247,Referred,2012-03-07 00:00:00
+248,2012-08-25 00:00:00,23,Severe Pneumonia,Rangpur,Address248,Discharged,2012-09-19 00:00:00
+249,2012-08-12 00:00:00,54,Pneumonia,Sylhet,Address249,DORB,2012-08-13 00:00:00
+250,2012-09-08 00:00:00,24,Severe Pneumonia,Mymensingh,Address250,Discharged,2012-10-06 00:00:00
+251,2012-06-01 00:00:00,43,Meningitis,Barisal,Address251,Discharged,2012-06-27 00:00:00
+252,2012-03-27 00:00:00,13,Severe Pneumonia,Sylhet,Address252,DORB,2012-04-12 00:00:00
+253,2012-09-07 00:00:00,4,Pneumonia,Khulna,Address253,Died,2012-09-21 00:00:00
+254,2012-08-14 00:00:00,45,Pneumonia,Chittagong,Address254,Discharged,2012-09-05 00:00:00
+255,2012-06-16 00:00:00,39,,Mymensingh,Address255,Discharged,2012-07-01 00:00:00
+256,2012-04-22 00:00:00,13,,Chittagong,Address256,Referred,2012-05-18 00:00:00
+257,2012-01-01 00:00:00,52,Very Severe Disease,Rajshahi,Address257,DORB,2012-01-06 00:00:00
+258,2012-02-27 00:00:00,42,Very Severe Disease,Chittagong,Address258,Died,2012-03-25 00:00:00
+259,2012-03-15 00:00:00,12,Missing,Mymensingh,Address259,DORB,2012-03-24 00:00:00
+260,2012-04-02 00:00:00,43,Missing,Chittagong,Address260,Died,2012-04-24 00:00:00
+261,2012-06-14 00:00:00,58,Missing,Khulna,Address261,Died,2012-06-27 00:00:00
+262,2012-06-15 00:00:00,21,Meningitis,Rangpur,Address262,Referred,2012-07-12 00:00:00
+263,2012-01-20 00:00:00,2,Not eligible,Mymensingh,Address263,Died,2012-02-17 00:00:00
+264,2012-03-25 00:00:00,54,Very Severe Disease,Khulna,Address264,DORB,2012-03-29 00:00:00
+265,2012-01-26 00:00:00,20,Not eligible,Dhaka,Address265,DORB,2012-02-19 00:00:00
+266,2013-08-24 00:00:00,46,Not eligible,Chittagong,Address266,DORB,2013-08-25 00:00:00
+267,2013-04-04 00:00:00,20,Severe Pneumonia,Rangpur,Address267,Referred,2013-04-29 00:00:00
+268,2013-12-03 00:00:00,22,Pneumonia,Khulna,Address268,Died,2013-12-23 00:00:00
+269,2013-01-15 00:00:00,35,Missing,Rajshahi,Address269,Died,2013-01-25 00:00:00
+270,2013-09-08 00:00:00,54,,Sylhet,Address270,DORB,2013-10-08 00:00:00
+271,2013-07-25 00:00:00,45,Not eligible,Barisal,Address271,Discharged,2013-08-19 00:00:00
+272,2013-06-03 00:00:00,13,Very Severe Disease,Sylhet,Address272,Died,2013-07-03 00:00:00
+273,2013-06-21 00:00:00,12,Missing,Rangpur,Address273,Discharged,2013-07-16 00:00:00
+274,2013-03-02 00:00:00,5,Very Severe Disease,Sylhet,Address274,Referred,2013-03-04 00:00:00
+275,2013-08-27 00:00:00,35,Pneumonia,Barisal,Address275,Died,2013-09-24 00:00:00
+276,2013-07-08 00:00:00,45,,Sylhet,Address276,DORB,2013-07-25 00:00:00
+277,2013-03-03 00:00:00,26,Meningitis,Barisal,Address277,Died,2013-03-19 00:00:00
+278,2013-03-06 00:00:00,51,Meningitis,Rangpur,Address278,Referred,2013-03-12 00:00:00
+279,2013-02-27 00:00:00,46,,Khulna,Address279,Referred,2013-03-12 00:00:00
+280,2013-09-06 00:00:00,51,Missing,Rajshahi,Address280,Died,2013-09-07 00:00:00
+281,2013-10-18 00:00:00,6,Very Severe Disease,Chittagong,Address281,Died,2013-10-28 00:00:00
+282,2013-02-03 00:00:00,58,Meningitis,Sylhet,Address282,DORB,2013-02-27 00:00:00
+283,2013-01-21 00:00:00,34,Very Severe Disease,Dhaka,Address283,DORB,2013-01-22 00:00:00
+284,2013-10-26 00:00:00,9,,Rajshahi,Address284,DORB,2013-10-31 00:00:00
+285,2013-11-03 00:00:00,24,Very Severe Disease,Sylhet,Address285,Discharged,2013-11-04 00:00:00
+286,2013-11-23 00:00:00,36,Missing,Chittagong,Address286,Died,2013-12-12 00:00:00
+287,2013-04-12 00:00:00,28,Very Severe Disease,Sylhet,Address287,DORB,2013-05-02 00:00:00
+288,2013-10-26 00:00:00,2,Missing,Rangpur,Address288,DORB,2013-10-29 00:00:00
+289,2013-03-16 00:00:00,9,Meningitis,Khulna,Address289,Died,2013-04-06 00:00:00
+290,2013-10-06 00:00:00,22,Very Severe Disease,Dhaka,Address290,Discharged,2013-11-03 00:00:00
+291,2013-08-10 00:00:00,25,Very Severe Disease,Sylhet,Address291,DORB,2013-08-21 00:00:00
+292,2013-07-14 00:00:00,1,Not eligible,Sylhet,Address292,Died,2013-08-07 00:00:00
+293,2013-03-14 00:00:00,48,Not eligible,Barisal,Address293,Died,2013-03-19 00:00:00
+294,2013-06-13 00:00:00,21,Meningitis,Rangpur,Address294,DORB,2013-07-08 00:00:00
+295,2013-12-07 00:00:00,43,Missing,Chittagong,Address295,DORB,2013-12-24 00:00:00
+296,2013-01-21 00:00:00,11,Very Severe Disease,Dhaka,Address296,Discharged,2013-02-16 00:00:00
+297,2013-07-18 00:00:00,57,Very Severe Disease,Dhaka,Address297,Referred,2013-08-11 00:00:00
+298,2013-01-10 00:00:00,52,,Sylhet,Address298,Discharged,2013-02-05 00:00:00
+299,2013-01-06 00:00:00,16,Very Severe Disease,Khulna,Address299,DORB,2013-01-14 00:00:00
+300,2013-10-23 00:00:00,54,Not eligible,Chittagong,Address300,Referred,2013-10-31 00:00:00
+301,2013-08-23 00:00:00,56,Very Severe Disease,Chittagong,Address301,DORB,2013-09-02 00:00:00
+302,2013-01-15 00:00:00,43,Very Severe Disease,Rajshahi,Address302,Died,2013-01-20 00:00:00
+303,2013-12-05 00:00:00,30,Very Severe Disease,Rangpur,Address303,Died,2013-12-23 00:00:00
+304,2013-04-01 00:00:00,58,Pneumonia,Chittagong,Address304,DORB,2013-04-10 00:00:00
+305,2013-04-15 00:00:00,25,Missing,Dhaka,Address305,Referred,2013-05-10 00:00:00
+306,2013-06-28 00:00:00,52,,Rajshahi,Address306,Discharged,2013-07-14 00:00:00
+307,2013-06-04 00:00:00,30,Missing,Dhaka,Address307,Discharged,2013-06-20 00:00:00
+308,2013-11-24 00:00:00,34,,Dhaka,Address308,Died,2013-12-07 00:00:00
+309,2013-05-08 00:00:00,58,,Barisal,Address309,Discharged,2013-05-26 00:00:00
+310,2013-08-16 00:00:00,17,Missing,Rangpur,Address310,Died,2013-09-05 00:00:00
+311,2013-12-07 00:00:00,25,,Rangpur,Address311,Referred,2013-12-17 00:00:00
+312,2013-09-06 00:00:00,58,Missing,Sylhet,Address312,Discharged,2013-09-07 00:00:00
+313,2013-02-27 00:00:00,35,,Sylhet,Address313,Died,2013-03-02 00:00:00
+314,2013-05-10 00:00:00,48,,Rangpur,Address314,Discharged,2013-05-14 00:00:00
+315,2013-02-04 00:00:00,6,Meningitis,Dhaka,Address315,DORB,2013-02-23 00:00:00
+316,2013-05-02 00:00:00,27,Missing,Chittagong,Address316,Discharged,2013-05-09 00:00:00
+317,2013-03-27 00:00:00,45,,Sylhet,Address317,Discharged,2013-04-21 00:00:00
+318,2013-06-01 00:00:00,15,Meningitis,Sylhet,Address318,Died,2013-06-17 00:00:00
+319,2013-11-21 00:00:00,39,Very Severe Disease,Sylhet,Address319,DORB,2013-11-27 00:00:00
+320,2013-08-24 00:00:00,7,Not eligible,Khulna,Address320,Died,2013-08-31 00:00:00
+321,2013-06-19 00:00:00,42,Missing,Rangpur,Address321,DORB,2013-07-10 00:00:00
+322,2013-07-11 00:00:00,30,Very Severe Disease,Chittagong,Address322,DORB,2013-07-21 00:00:00
+323,2013-08-23 00:00:00,53,Pneumonia,Chittagong,Address323,DORB,2013-09-09 00:00:00
+324,2013-07-23 00:00:00,30,Severe Pneumonia,Sylhet,Address324,Referred,2013-07-24 00:00:00
+325,2013-11-14 00:00:00,30,,Chittagong,Address325,Discharged,2013-12-12 00:00:00
+326,2013-01-13 00:00:00,31,Severe Pneumonia,Khulna,Address326,Discharged,2013-01-22 00:00:00
+327,2013-06-12 00:00:00,23,Pneumonia,Khulna,Address327,DORB,2013-06-23 00:00:00
+328,2013-12-19 00:00:00,1,Missing,Chittagong,Address328,DORB,2013-12-30 00:00:00
+329,2013-02-18 00:00:00,12,Not eligible,Dhaka,Address329,Discharged,2013-03-06 00:00:00
+330,2013-04-18 00:00:00,41,Severe Pneumonia,Rangpur,Address330,Discharged,2013-04-29 00:00:00
+331,2013-08-10 00:00:00,44,Severe Pneumonia,Khulna,Address331,DORB,2013-08-24 00:00:00
+332,2013-01-22 00:00:00,35,Severe Pneumonia,Sylhet,Address332,Died,2013-02-21 00:00:00
+333,2013-10-24 00:00:00,10,Not eligible,Khulna,Address333,DORB,2013-11-02 00:00:00
+334,2013-01-06 00:00:00,24,Not eligible,Dhaka,Address334,Referred,2013-02-02 00:00:00
+335,2013-12-15 00:00:00,51,Very Severe Disease,Rangpur,Address335,Referred,2014-01-08 00:00:00
+336,2013-01-23 00:00:00,15,Severe Pneumonia,Sylhet,Address336,DORB,2013-01-27 00:00:00
+337,2013-12-05 00:00:00,30,,Khulna,Address337,DORB,2013-12-24 00:00:00
+338,2013-04-19 00:00:00,50,Pneumonia,Barisal,Address338,Died,2013-05-13 00:00:00
+339,2013-03-21 00:00:00,12,Pneumonia,Rangpur,Address339,Died,2013-03-25 00:00:00
+340,2013-07-16 00:00:00,48,Very Severe Disease,Mymensingh,Address340,Referred,2013-07-17 00:00:00
+341,2013-10-17 00:00:00,28,Pneumonia,Rangpur,Address341,Referred,2013-11-02 00:00:00
+342,2013-12-09 00:00:00,40,Pneumonia,Rangpur,Address342,DORB,2014-01-05 00:00:00
+343,2013-05-25 00:00:00,51,Meningitis,Khulna,Address343,DORB,2013-06-24 00:00:00
+344,2013-11-17 00:00:00,38,Missing,Dhaka,Address344,DORB,2013-12-13 00:00:00
+345,2013-10-14 00:00:00,29,Meningitis,Chittagong,Address345,Referred,2013-10-24 00:00:00
+346,2013-12-17 00:00:00,2,Severe Pneumonia,Barisal,Address346,DORB,2013-12-18 00:00:00
+347,2013-07-23 00:00:00,14,,Khulna,Address347,Discharged,2013-08-11 00:00:00
+348,2013-04-14 00:00:00,37,Missing,Rajshahi,Address348,Died,2013-05-08 00:00:00
+349,2013-04-14 00:00:00,56,Very Severe Disease,Rangpur,Address349,DORB,2013-04-27 00:00:00
+350,2013-04-17 00:00:00,43,Very Severe Disease,Rangpur,Address350,DORB,2013-05-02 00:00:00
+351,2013-12-22 00:00:00,57,Very Severe Disease,Mymensingh,Address351,Referred,2014-01-14 00:00:00
+352,2013-09-25 00:00:00,57,Pneumonia,Chittagong,Address352,Died,2013-10-17 00:00:00
+353,2013-06-11 00:00:00,50,Pneumonia,Rangpur,Address353,Discharged,2013-07-10 00:00:00
+354,2013-10-26 00:00:00,10,Not eligible,Barisal,Address354,Died,2013-11-03 00:00:00
+355,2013-10-01 00:00:00,42,Severe Pneumonia,Chittagong,Address355,DORB,2013-10-23 00:00:00
+356,2013-05-27 00:00:00,26,,Khulna,Address356,DORB,2013-06-23 00:00:00
+357,2013-12-24 00:00:00,30,Severe Pneumonia,Rangpur,Address357,Referred,2014-01-20 00:00:00
+358,2013-10-22 00:00:00,43,Meningitis,Khulna,Address358,Referred,2013-11-08 00:00:00
+359,2013-06-27 00:00:00,53,Pneumonia,Dhaka,Address359,DORB,2013-07-12 00:00:00
+360,2013-03-02 00:00:00,33,Meningitis,Rangpur,Address360,Discharged,2013-03-25 00:00:00
+361,2013-10-16 00:00:00,44,Severe Pneumonia,Dhaka,Address361,Discharged,2013-11-11 00:00:00
+362,2013-03-08 00:00:00,30,,Rajshahi,Address362,Discharged,2013-04-07 00:00:00
+363,2014-04-24 00:00:00,22,,Rajshahi,Address363,Discharged,2014-05-16 00:00:00
+364,2014-12-11 00:00:00,1,Missing,Rangpur,Address364,Discharged,2015-01-01 00:00:00
+365,2014-07-12 00:00:00,47,Meningitis,Chittagong,Address365,Died,2014-07-27 00:00:00
+366,2014-03-24 00:00:00,1,Missing,Barisal,Address366,Referred,2014-04-05 00:00:00
+367,2014-08-07 00:00:00,50,Severe Pneumonia,Dhaka,Address367,Referred,2014-08-17 00:00:00
+368,2014-03-02 00:00:00,11,Not eligible,Barisal,Address368,Referred,2014-03-23 00:00:00
+369,2014-10-18 00:00:00,51,Meningitis,Dhaka,Address369,DORB,2014-11-12 00:00:00
+370,2014-06-21 00:00:00,17,Not eligible,Barisal,Address370,DORB,2014-07-18 00:00:00
+371,2014-10-24 00:00:00,19,Severe Pneumonia,Mymensingh,Address371,Referred,2014-10-29 00:00:00
+372,2014-08-20 00:00:00,37,Not eligible,Sylhet,Address372,Discharged,2014-08-21 00:00:00
+373,2014-06-19 00:00:00,13,Not eligible,Dhaka,Address373,Referred,2014-07-06 00:00:00
+374,2014-03-15 00:00:00,13,Very Severe Disease,Dhaka,Address374,Discharged,2014-04-09 00:00:00
+375,2014-09-24 00:00:00,13,Not eligible,Chittagong,Address375,Referred,2014-10-22 00:00:00
+376,2014-01-06 00:00:00,27,Meningitis,Chittagong,Address376,Referred,2014-01-25 00:00:00
+377,2014-08-25 00:00:00,41,Very Severe Disease,Barisal,Address377,Referred,2014-09-23 00:00:00
+378,2014-06-04 00:00:00,30,Not eligible,Sylhet,Address378,Referred,2014-06-15 00:00:00
+379,2014-03-11 00:00:00,13,Very Severe Disease,Chittagong,Address379,Referred,2014-04-01 00:00:00
+380,2014-07-27 00:00:00,42,,Dhaka,Address380,Discharged,2014-08-11 00:00:00
+381,2014-06-05 00:00:00,40,,Rajshahi,Address381,Referred,2014-06-22 00:00:00
+382,2014-04-27 00:00:00,57,Missing,Rangpur,Address382,Discharged,2014-05-11 00:00:00
+383,2014-01-17 00:00:00,13,Pneumonia,Dhaka,Address383,Discharged,2014-01-28 00:00:00
+384,2014-09-03 00:00:00,54,Severe Pneumonia,Chittagong,Address384,Discharged,2014-09-26 00:00:00
+385,2014-07-20 00:00:00,41,,Barisal,Address385,DORB,2014-08-05 00:00:00
+386,2014-02-19 00:00:00,53,Not eligible,Mymensingh,Address386,Discharged,2014-02-20 00:00:00
+387,2014-08-25 00:00:00,41,Missing,Dhaka,Address387,Died,2014-09-19 00:00:00
+388,2014-02-20 00:00:00,52,Very Severe Disease,Barisal,Address388,Referred,2014-03-22 00:00:00
+389,2014-09-18 00:00:00,38,Very Severe Disease,Mymensingh,Address389,DORB,2014-10-09 00:00:00
+390,2014-12-15 00:00:00,39,Not eligible,Chittagong,Address390,Discharged,2015-01-09 00:00:00
+391,2014-10-10 00:00:00,53,Pneumonia,Chittagong,Address391,Died,2014-11-05 00:00:00
+392,2014-09-20 00:00:00,58,,Sylhet,Address392,Died,2014-10-01 00:00:00
+393,2014-05-13 00:00:00,39,,Dhaka,Address393,Referred,2014-06-11 00:00:00
+394,2014-08-26 00:00:00,48,Very Severe Disease,Khulna,Address394,Referred,2014-09-01 00:00:00
+395,2014-12-13 00:00:00,36,Severe Pneumonia,Rangpur,Address395,DORB,2014-12-21 00:00:00
+396,2014-02-23 00:00:00,34,Meningitis,Rajshahi,Address396,Referred,2014-03-02 00:00:00
+397,2014-05-15 00:00:00,43,Not eligible,Barisal,Address397,DORB,2014-05-18 00:00:00
+398,2014-07-28 00:00:00,48,Meningitis,Rajshahi,Address398,Referred,2014-08-11 00:00:00
+399,2014-06-26 00:00:00,19,Pneumonia,Barisal,Address399,Died,2014-07-01 00:00:00
+400,2014-11-20 00:00:00,8,Meningitis,Barisal,Address400,DORB,2014-11-22 00:00:00
+401,2014-04-12 00:00:00,57,Severe Pneumonia,Khulna,Address401,Referred,2014-05-06 00:00:00
+402,2014-03-19 00:00:00,12,Missing,Dhaka,Address402,Referred,2014-04-15 00:00:00
+403,2014-03-24 00:00:00,5,Meningitis,Mymensingh,Address403,Discharged,2014-04-16 00:00:00
+404,2014-01-07 00:00:00,35,Not eligible,Rangpur,Address404,DORB,2014-01-12 00:00:00
+405,2014-08-02 00:00:00,48,,Barisal,Address405,Discharged,2014-08-30 00:00:00
+406,2014-11-26 00:00:00,44,Severe Pneumonia,Chittagong,Address406,Died,2014-11-29 00:00:00
+407,2014-02-10 00:00:00,40,Severe Pneumonia,Chittagong,Address407,DORB,2014-02-18 00:00:00
+408,2014-04-10 00:00:00,29,,Mymensingh,Address408,Died,2014-05-10 00:00:00
+409,2014-04-04 00:00:00,42,Missing,Dhaka,Address409,Died,2014-04-19 00:00:00
+410,2014-11-18 00:00:00,28,Severe Pneumonia,Chittagong,Address410,Died,2014-12-02 00:00:00
+411,2014-05-05 00:00:00,45,,Sylhet,Address411,Discharged,2014-05-09 00:00:00
+412,2014-08-01 00:00:00,49,Severe Pneumonia,Chittagong,Address412,Discharged,2014-08-11 00:00:00
+413,2014-10-10 00:00:00,8,Not eligible,Chittagong,Address413,DORB,2014-10-14 00:00:00
+414,2014-01-02 00:00:00,29,Not eligible,Dhaka,Address414,Referred,2014-02-01 00:00:00
+415,2014-09-05 00:00:00,29,Pneumonia,Sylhet,Address415,Referred,2014-09-30 00:00:00
+416,2014-06-25 00:00:00,23,Meningitis,Barisal,Address416,Referred,2014-06-28 00:00:00
+417,2014-06-19 00:00:00,48,Very Severe Disease,Dhaka,Address417,Died,2014-06-28 00:00:00
+418,2014-04-04 00:00:00,50,,Khulna,Address418,Died,2014-04-22 00:00:00
+419,2014-11-26 00:00:00,54,Missing,Barisal,Address419,DORB,2014-12-24 00:00:00
+420,2014-10-25 00:00:00,15,Not eligible,Barisal,Address420,Discharged,2014-11-07 00:00:00
+421,2014-12-11 00:00:00,37,,Barisal,Address421,Died,2014-12-15 00:00:00
+422,2014-01-27 00:00:00,51,,Rangpur,Address422,Discharged,2014-02-12 00:00:00
+423,2014-11-01 00:00:00,17,Not eligible,Rajshahi,Address423,DORB,2014-11-12 00:00:00
+424,2014-02-20 00:00:00,19,Severe Pneumonia,Khulna,Address424,DORB,2014-03-16 00:00:00
+425,2014-12-25 00:00:00,54,Missing,Khulna,Address425,Died,2015-01-04 00:00:00
+426,2014-06-20 00:00:00,12,Pneumonia,Sylhet,Address426,Referred,2014-07-03 00:00:00
+427,2014-07-03 00:00:00,13,Very Severe Disease,Khulna,Address427,Discharged,2014-07-21 00:00:00
+428,2014-07-17 00:00:00,21,Severe Pneumonia,Rajshahi,Address428,Died,2014-08-13 00:00:00
+429,2014-06-02 00:00:00,42,Not eligible,Khulna,Address429,Died,2014-06-13 00:00:00
+430,2014-11-19 00:00:00,10,Not eligible,Barisal,Address430,Referred,2014-12-10 00:00:00
+431,2014-03-23 00:00:00,37,,Barisal,Address431,DORB,2014-04-10 00:00:00
+432,2014-11-23 00:00:00,5,Very Severe Disease,Rajshahi,Address432,Referred,2014-12-03 00:00:00
+433,2014-09-23 00:00:00,53,Meningitis,Khulna,Address433,Died,2014-10-01 00:00:00
+434,2014-06-23 00:00:00,55,Pneumonia,Chittagong,Address434,DORB,2014-07-07 00:00:00
+435,2014-06-21 00:00:00,30,Severe Pneumonia,Sylhet,Address435,DORB,2014-07-21 00:00:00
+436,2014-08-05 00:00:00,26,Meningitis,Sylhet,Address436,Died,2014-08-29 00:00:00
+437,2014-05-12 00:00:00,45,Not eligible,Mymensingh,Address437,Died,2014-06-09 00:00:00
+438,2014-01-13 00:00:00,19,Not eligible,Dhaka,Address438,Discharged,2014-02-02 00:00:00
+439,2014-05-01 00:00:00,36,Very Severe Disease,Sylhet,Address439,Discharged,2014-05-09 00:00:00
+440,2014-08-08 00:00:00,32,,Rajshahi,Address440,DORB,2014-08-15 00:00:00
+441,2014-10-27 00:00:00,37,Severe Pneumonia,Chittagong,Address441,Died,2014-11-23 00:00:00
+442,2014-11-20 00:00:00,2,Pneumonia,Dhaka,Address442,Referred,2014-12-19 00:00:00
+443,2014-09-15 00:00:00,25,Missing,Rajshahi,Address443,Referred,2014-09-18 00:00:00
+444,2014-06-17 00:00:00,44,Not eligible,Chittagong,Address444,Referred,2014-07-03 00:00:00
+445,2014-12-20 00:00:00,53,Not eligible,Dhaka,Address445,Discharged,2014-12-29 00:00:00
+446,2014-06-21 00:00:00,45,,Khulna,Address446,Discharged,2014-07-04 00:00:00
+447,2014-09-02 00:00:00,41,Not eligible,Rajshahi,Address447,Discharged,2014-10-02 00:00:00
+448,2014-04-26 00:00:00,48,Missing,Barisal,Address448,Referred,2014-05-25 00:00:00
+449,2014-04-07 00:00:00,13,,Rangpur,Address449,Died,2014-05-03 00:00:00
+450,2014-03-10 00:00:00,16,Very Severe Disease,Dhaka,Address450,DORB,2014-03-24 00:00:00
+451,2014-02-16 00:00:00,26,Very Severe Disease,Sylhet,Address451,Died,2014-02-28 00:00:00
+452,2014-12-16 00:00:00,3,Missing,Rangpur,Address452,Died,2015-01-09 00:00:00
+453,2014-03-08 00:00:00,26,Severe Pneumonia,Sylhet,Address453,Died,2014-03-28 00:00:00
+454,2014-03-19 00:00:00,59,Severe Pneumonia,Khulna,Address454,DORB,2014-04-14 00:00:00
+455,2014-06-21 00:00:00,41,Very Severe Disease,Khulna,Address455,Discharged,2014-06-25 00:00:00
+456,2014-03-26 00:00:00,10,Pneumonia,Mymensingh,Address456,Discharged,2014-04-06 00:00:00
+457,2014-09-04 00:00:00,21,Pneumonia,Rajshahi,Address457,Discharged,2014-10-01 00:00:00
+458,2014-06-27 00:00:00,18,Meningitis,Rajshahi,Address458,Died,2014-07-21 00:00:00
+459,2014-12-09 00:00:00,14,Very Severe Disease,Rangpur,Address459,DORB,2014-12-31 00:00:00
+460,2014-07-03 00:00:00,4,Pneumonia,Barisal,Address460,DORB,2014-08-02 00:00:00
+461,2014-04-08 00:00:00,45,Not eligible,Khulna,Address461,Referred,2014-04-28 00:00:00
+462,2014-08-26 00:00:00,15,Very Severe Disease,Barisal,Address462,DORB,2014-09-22 00:00:00
+463,2015-12-18 00:00:00,5,Missing,Khulna,Address463,DORB,2015-12-31 00:00:00
+464,2015-03-08 00:00:00,7,Not eligible,Chittagong,Address464,Referred,2015-03-15 00:00:00
+465,2015-09-24 00:00:00,52,Meningitis,Barisal,Address465,Discharged,2015-10-09 00:00:00
+466,2015-06-11 00:00:00,35,,Sylhet,Address466,Died,2015-07-04 00:00:00
+467,2015-09-05 00:00:00,26,Not eligible,Dhaka,Address467,Died,2015-10-02 00:00:00
+468,2015-11-23 00:00:00,47,,Barisal,Address468,Referred,2015-12-22 00:00:00
+469,2015-03-11 00:00:00,47,,Rajshahi,Address469,Died,2015-04-09 00:00:00
+470,2015-09-10 00:00:00,39,,Sylhet,Address470,Died,2015-09-25 00:00:00
+471,2015-11-01 00:00:00,57,Missing,Khulna,Address471,Discharged,2015-11-21 00:00:00
+472,2015-06-04 00:00:00,43,Very Severe Disease,Rajshahi,Address472,Referred,2015-06-27 00:00:00
+473,2015-09-22 00:00:00,1,,Chittagong,Address473,Discharged,2015-10-20 00:00:00
+474,2015-01-27 00:00:00,43,,Mymensingh,Address474,Discharged,2015-02-19 00:00:00
+475,2015-09-11 00:00:00,39,,Khulna,Address475,Died,2015-09-17 00:00:00
+476,2015-12-09 00:00:00,14,Severe Pneumonia,Sylhet,Address476,DORB,2015-12-12 00:00:00
+477,2015-04-18 00:00:00,54,Not eligible,Mymensingh,Address477,Discharged,2015-04-28 00:00:00
+478,2015-10-26 00:00:00,40,Pneumonia,Sylhet,Address478,Referred,2015-10-28 00:00:00
+479,2015-02-01 00:00:00,34,Not eligible,Rangpur,Address479,DORB,2015-02-07 00:00:00
+480,2015-09-01 00:00:00,26,Meningitis,Khulna,Address480,DORB,2015-09-10 00:00:00
+481,2015-09-11 00:00:00,30,Severe Pneumonia,Khulna,Address481,Died,2015-09-18 00:00:00
+482,2015-07-19 00:00:00,47,Missing,Rangpur,Address482,Referred,2015-08-08 00:00:00
+483,2015-12-19 00:00:00,26,Not eligible,Sylhet,Address483,DORB,2015-12-25 00:00:00
+484,2015-09-26 00:00:00,31,Pneumonia,Mymensingh,Address484,Referred,2015-10-19 00:00:00
+485,2015-07-18 00:00:00,46,Missing,Barisal,Address485,Discharged,2015-07-24 00:00:00
+486,2015-11-19 00:00:00,58,Pneumonia,Sylhet,Address486,Referred,2015-11-21 00:00:00
+487,2015-09-15 00:00:00,20,Very Severe Disease,Sylhet,Address487,DORB,2015-09-17 00:00:00
+488,2015-04-18 00:00:00,37,,Chittagong,Address488,DORB,2015-04-26 00:00:00
+489,2015-10-15 00:00:00,7,,Khulna,Address489,Referred,2015-11-09 00:00:00
+490,2015-05-21 00:00:00,43,Severe Pneumonia,Rajshahi,Address490,Died,2015-05-29 00:00:00
+491,2015-08-23 00:00:00,25,Not eligible,Dhaka,Address491,Died,2015-09-22 00:00:00
+492,2015-11-06 00:00:00,6,Meningitis,Khulna,Address492,Died,2015-11-18 00:00:00
+493,2015-12-21 00:00:00,41,Missing,Rajshahi,Address493,Discharged,2015-12-25 00:00:00
+494,2015-11-08 00:00:00,11,Missing,Rajshahi,Address494,Discharged,2015-11-21 00:00:00
+495,2015-02-01 00:00:00,45,Meningitis,Dhaka,Address495,Discharged,2015-02-09 00:00:00
+496,2015-12-22 00:00:00,46,Not eligible,Rangpur,Address496,Died,2016-01-20 00:00:00
+497,2015-04-13 00:00:00,40,Pneumonia,Rangpur,Address497,Referred,2015-04-16 00:00:00
+498,2015-09-09 00:00:00,30,Meningitis,Chittagong,Address498,Died,2015-09-21 00:00:00
+499,2015-03-09 00:00:00,40,Severe Pneumonia,Khulna,Address499,Discharged,2015-03-13 00:00:00
+500,2015-02-16 00:00:00,56,Pneumonia,Rajshahi,Address500,DORB,2015-03-01 00:00:00
+501,2015-08-16 00:00:00,34,Missing,Mymensingh,Address501,Discharged,2015-08-18 00:00:00
+502,2015-09-23 00:00:00,48,Pneumonia,Dhaka,Address502,DORB,2015-10-11 00:00:00
+503,2015-08-28 00:00:00,31,Pneumonia,Dhaka,Address503,Referred,2015-09-20 00:00:00
+504,2015-10-19 00:00:00,31,Severe Pneumonia,Sylhet,Address504,DORB,2015-10-23 00:00:00
+505,2015-03-14 00:00:00,25,Meningitis,Rangpur,Address505,Discharged,2015-04-03 00:00:00
+506,2015-09-09 00:00:00,28,Missing,Khulna,Address506,Died,2015-09-21 00:00:00
+507,2015-06-15 00:00:00,30,Very Severe Disease,Rangpur,Address507,Referred,2015-07-03 00:00:00
+508,2015-09-11 00:00:00,33,Severe Pneumonia,Mymensingh,Address508,Died,2015-09-14 00:00:00
+509,2015-03-11 00:00:00,42,,Sylhet,Address509,Died,2015-04-01 00:00:00
+510,2015-08-04 00:00:00,42,Severe Pneumonia,Sylhet,Address510,Referred,2015-08-15 00:00:00
+511,2015-11-13 00:00:00,36,Missing,Rangpur,Address511,Died,2015-12-07 00:00:00
+512,2015-08-24 00:00:00,23,,Khulna,Address512,Discharged,2015-09-15 00:00:00
+513,2015-02-09 00:00:00,47,Pneumonia,Rangpur,Address513,DORB,2015-03-11 00:00:00
+514,2015-09-21 00:00:00,20,Not eligible,Khulna,Address514,Referred,2015-10-05 00:00:00
+515,2015-10-23 00:00:00,14,Very Severe Disease,Rangpur,Address515,Referred,2015-11-01 00:00:00
+516,2015-04-15 00:00:00,1,Meningitis,Barisal,Address516,DORB,2015-05-04 00:00:00
+517,2015-12-18 00:00:00,30,Pneumonia,Rangpur,Address517,Died,2015-12-26 00:00:00
+518,2015-09-19 00:00:00,57,Meningitis,Chittagong,Address518,Died,2015-09-23 00:00:00
+519,2015-06-02 00:00:00,28,,Rajshahi,Address519,Referred,2015-06-21 00:00:00
+520,2015-09-27 00:00:00,46,Not eligible,Dhaka,Address520,Discharged,2015-10-14 00:00:00
+521,2015-11-08 00:00:00,58,Meningitis,Mymensingh,Address521,DORB,2015-11-17 00:00:00
+522,2015-08-27 00:00:00,27,Pneumonia,Dhaka,Address522,DORB,2015-09-02 00:00:00
+523,2015-03-07 00:00:00,57,Not eligible,Chittagong,Address523,DORB,2015-04-05 00:00:00
+524,2015-01-08 00:00:00,1,Not eligible,Khulna,Address524,DORB,2015-01-30 00:00:00
+525,2015-10-16 00:00:00,7,Pneumonia,Dhaka,Address525,Referred,2015-10-26 00:00:00
+526,2015-12-08 00:00:00,59,Pneumonia,Rangpur,Address526,Referred,2015-12-22 00:00:00
+527,2015-09-25 00:00:00,53,,Khulna,Address527,Died,2015-10-22 00:00:00
+528,2015-06-16 00:00:00,45,Pneumonia,Dhaka,Address528,Died,2015-07-09 00:00:00
+529,2015-12-26 00:00:00,7,Missing,Barisal,Address529,Referred,2016-01-25 00:00:00
+530,2015-03-24 00:00:00,6,Missing,Chittagong,Address530,DORB,2015-04-22 00:00:00
+531,2015-08-15 00:00:00,43,Not eligible,Chittagong,Address531,Referred,2015-09-03 00:00:00
+532,2015-02-28 00:00:00,14,,Sylhet,Address532,DORB,2015-03-05 00:00:00
+533,2015-09-20 00:00:00,13,Very Severe Disease,Rangpur,Address533,Discharged,2015-09-28 00:00:00
+534,2015-03-07 00:00:00,23,Not eligible,Rajshahi,Address534,Died,2015-03-13 00:00:00
+535,2015-11-11 00:00:00,57,Not eligible,Rajshahi,Address535,Died,2015-11-19 00:00:00
+536,2015-08-10 00:00:00,16,Severe Pneumonia,Rangpur,Address536,Referred,2015-08-15 00:00:00
+537,2015-11-21 00:00:00,29,,Chittagong,Address537,Discharged,2015-12-15 00:00:00
+538,2015-08-15 00:00:00,11,Missing,Dhaka,Address538,Discharged,2015-08-16 00:00:00
+539,2015-10-17 00:00:00,34,Pneumonia,Chittagong,Address539,Died,2015-11-07 00:00:00
+540,2015-08-23 00:00:00,4,Pneumonia,Chittagong,Address540,Discharged,2015-09-20 00:00:00
+541,2015-12-18 00:00:00,28,Not eligible,Barisal,Address541,Referred,2015-12-24 00:00:00
+542,2015-09-18 00:00:00,13,,Rangpur,Address542,Referred,2015-10-06 00:00:00
+543,2015-04-26 00:00:00,46,Meningitis,Rajshahi,Address543,Died,2015-05-11 00:00:00
+544,2015-10-11 00:00:00,46,,Rangpur,Address544,Referred,2015-10-28 00:00:00
+545,2015-03-13 00:00:00,4,Very Severe Disease,Rajshahi,Address545,Referred,2015-04-05 00:00:00
+546,2015-12-23 00:00:00,48,Missing,Barisal,Address546,Died,2015-12-28 00:00:00
+547,2015-08-10 00:00:00,10,Very Severe Disease,Rajshahi,Address547,DORB,2015-08-27 00:00:00
+548,2015-08-13 00:00:00,22,Not eligible,Mymensingh,Address548,Discharged,2015-08-30 00:00:00
+549,2015-07-10 00:00:00,48,Missing,Dhaka,Address549,Died,2015-07-30 00:00:00
+550,2015-05-12 00:00:00,31,Not eligible,Sylhet,Address550,Referred,2015-06-06 00:00:00
+551,2015-05-28 00:00:00,10,Pneumonia,Barisal,Address551,Discharged,2015-06-22 00:00:00
+552,2015-11-19 00:00:00,14,Pneumonia,Dhaka,Address552,Discharged,2015-11-29 00:00:00
+553,2015-11-09 00:00:00,38,Missing,Mymensingh,Address553,Discharged,2015-11-13 00:00:00
+554,2015-01-06 00:00:00,2,Very Severe Disease,Rajshahi,Address554,DORB,2015-02-05 00:00:00
+555,2015-08-10 00:00:00,21,Very Severe Disease,Khulna,Address555,Died,2015-08-12 00:00:00
+556,2015-01-23 00:00:00,13,Pneumonia,Mymensingh,Address556,Discharged,2015-01-28 00:00:00
+557,2015-10-05 00:00:00,30,Very Severe Disease,Khulna,Address557,Died,2015-10-27 00:00:00
+558,2015-11-17 00:00:00,44,Meningitis,Barisal,Address558,Discharged,2015-11-22 00:00:00
+559,2015-12-21 00:00:00,26,,Sylhet,Address559,DORB,2016-01-13 00:00:00
+560,2015-04-05 00:00:00,18,Severe Pneumonia,Sylhet,Address560,Died,2015-04-20 00:00:00
+561,2015-12-16 00:00:00,30,Not eligible,Khulna,Address561,Died,2015-12-22 00:00:00
+562,2015-03-05 00:00:00,49,,Rajshahi,Address562,DORB,2015-03-21 00:00:00
+563,2015-10-20 00:00:00,20,Pneumonia,Rajshahi,Address563,Died,2015-11-06 00:00:00
+564,2015-08-16 00:00:00,43,Severe Pneumonia,Dhaka,Address564,Referred,2015-09-08 00:00:00
+565,2015-03-20 00:00:00,46,Not eligible,Khulna,Address565,Died,2015-04-05 00:00:00
+566,2015-11-24 00:00:00,45,,Rajshahi,Address566,Referred,2015-11-29 00:00:00
+567,2015-04-14 00:00:00,20,Not eligible,Chittagong,Address567,DORB,2015-05-09 00:00:00
+568,2015-08-17 00:00:00,34,Missing,Dhaka,Address568,Referred,2015-09-06 00:00:00
+569,2015-04-22 00:00:00,54,Severe Pneumonia,Chittagong,Address569,Referred,2015-05-09 00:00:00
+570,2015-04-21 00:00:00,49,Very Severe Disease,Khulna,Address570,Discharged,2015-05-11 00:00:00
+571,2015-12-08 00:00:00,55,Very Severe Disease,Rajshahi,Address571,DORB,2016-01-07 00:00:00
+572,2015-10-27 00:00:00,23,Missing,Sylhet,Address572,DORB,2015-11-11 00:00:00
+573,2015-12-02 00:00:00,29,Pneumonia,Rangpur,Address573,Discharged,2015-12-24 00:00:00
+574,2015-08-04 00:00:00,3,Not eligible,Sylhet,Address574,Died,2015-08-30 00:00:00
+575,2015-11-25 00:00:00,31,Severe Pneumonia,Barisal,Address575,Died,2015-12-06 00:00:00
+576,2015-07-26 00:00:00,2,,Barisal,Address576,DORB,2015-08-20 00:00:00
+577,2015-10-16 00:00:00,1,,Mymensingh,Address577,DORB,2015-11-11 00:00:00
+578,2015-03-24 00:00:00,16,Missing,Mymensingh,Address578,Referred,2015-03-28 00:00:00
+579,2015-10-16 00:00:00,43,Missing,Mymensingh,Address579,Discharged,2015-11-01 00:00:00
+580,2015-03-08 00:00:00,34,Not eligible,Dhaka,Address580,Referred,2015-03-23 00:00:00
+581,2015-01-20 00:00:00,38,Missing,Chittagong,Address581,Discharged,2015-02-13 00:00:00
+582,2015-09-25 00:00:00,43,Severe Pneumonia,Khulna,Address582,Referred,2015-09-28 00:00:00

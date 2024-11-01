@@ -1,0 +1,345 @@
+﻿UniqueID,AdmDate,Age (month),Case Definition,Zila,Address,Outcome,Discharge Date
+583,13/07/2016 00:00,37,Missing,Rangpur,Address583,Referred,07/08/2016 00:00
+584,19/03/2016 00:00,32,Enteric Fever,Khulna,Address584,Referred,10/04/2016 00:00
+585,08/01/2016 00:00,45,Severe Pneumonia,Chittagong,Address585,DORB,05/02/2016 00:00
+586,02/02/2016 00:00,7,Enteric Fever,Rangpur,Address586,Died,19/02/2016 00:00
+587,04/02/2016 00:00,8,Enteric Fever,Dhaka,Address587,Referred,16/02/2016 00:00
+588,02/01/2016 00:00,56,Enteric Fever,Rangpur,Address588,DORB,09/01/2016 00:00
+589,06/06/2016 00:00,56,Enteric Fever,Mymensingh,Address589,Referred,22/06/2016 00:00
+590,24/04/2016 00:00,31,Not eligible,,Address590,Referred,25/04/2016 00:00
+591,09/10/2016 00:00,38,Very Severe Disease,Sylhet,Address591,DORB,15/10/2016 00:00
+592,21/05/2016 00:00,19,Missing,Sylhet,Address592,Discharged,28/05/2016 00:00
+593,09/01/2016 00:00,3,Severe Pneumonia,Mymensingh,Address593,Died,01/02/2016 00:00
+594,04/04/2016 00:00,36,Pneumonia,Dhaka,Address594,Referred,01/05/2016 00:00
+595,20/06/2016 00:00,39,Very Severe Disease,Khulna,Address595,DORB,17/07/2016 00:00
+596,07/07/2016 00:00,38,Missing,Barisal,Address596,Discharged,11/07/2016 00:00
+597,06/03/2016 00:00,37,Pneumonia,Rangpur,Address597,Referred,14/03/2016 00:00
+598,07/02/2016 00:00,21,Very Severe Disease,Barisal,Address598,DORB,14/02/2016 00:00
+599,06/05/2016 00:00,24,Pneumonia,Rajshahi,Address599,Died,10/05/2016 00:00
+600,21/09/2016 00:00,21,Not eligible,Dhaka,Address600,Referred,18/10/2016 00:00
+601,11/07/2016 00:00,18,Very Severe Disease,Mymensingh,Address601,Died,31/07/2016 00:00
+602,03/09/2016 00:00,26,Not eligible,Dhaka,Address602,Died,08/09/2016 00:00
+603,10/02/2016 00:00,42,Very Severe Disease,Rangpur,Address603,Died,22/02/2016 00:00
+604,24/06/2016 00:00,32,Very Severe Disease,Sylhet,Address604,Referred,11/07/2016 00:00
+605,23/05/2016 00:00,22,Meningitis,Rangpur,Address605,Referred,24/05/2016 00:00
+606,16/11/2016 00:00,59,Very Severe Disease,Barisal,Address606,Referred,18/11/2016 00:00
+607,04/04/2016 00:00,32,Meningitis,Chittagong,Address607,Died,24/04/2016 00:00
+608,16/09/2016 00:00,4,Enteric Fever,Sylhet,Address608,Referred,05/10/2016 00:00
+609,01/01/2016 00:00,30,Enteric Fever,Mymensingh,Address609,Died,31/01/2016 00:00
+610,12/09/2016 00:00,19,Enteric Fever,Rajshahi,Address610,Referred,27/09/2016 00:00
+611,06/03/2016 00:00,40,Severe Pneumonia,Barisal,Address611,Died,15/03/2016 00:00
+612,06/04/2016 00:00,16,Enteric Fever,Dhaka,Address612,Died,25/04/2016 00:00
+613,24/07/2016 00:00,29,Severe Pneumonia,Khulna,Address613,Died,31/07/2016 00:00
+614,09/12/2016 00:00,38,Meningitis,Dhaka,Address614,Referred,07/01/2017 00:00
+615,01/10/2016 00:00,15,Pneumonia,Sylhet,Address615,DORB,30/10/2016 00:00
+616,01/11/2016 00:00,43,Enteric Fever,Chittagong,Address616,Referred,16/11/2016 00:00
+617,17/06/2016 00:00,33,Enteric Fever,Khulna,Address617,Discharged,03/07/2016 00:00
+618,16/12/2016 00:00,20,Missing,Khulna,Address618,Discharged,31/12/2016 00:00
+619,14/08/2016 00:00,29,Very Severe Disease,Rajshahi,Address619,Discharged,05/09/2016 00:00
+620,12/06/2016 00:00,21,Pneumonia,Sylhet,Address620,Died,13/06/2016 00:00
+621,04/09/2016 00:00,50,Pneumonia,Mymensingh,Address621,Discharged,06/09/2016 00:00
+622,27/04/2016 00:00,39,Missing,Rajshahi,Address622,Discharged,29/04/2016 00:00
+623,05/11/2016 00:00,21,Missing,Mymensingh,Address623,DORB,09/11/2016 00:00
+624,04/05/2016 00:00,25,Enteric Fever,Barisal,Address624,DORB,16/05/2016 00:00
+625,12/12/2016 00:00,14,Meningitis,Mymensingh,Address625,DORB,21/12/2016 00:00
+626,04/11/2016 00:00,2,Pneumonia,Barisal,Address626,Discharged,26/11/2016 00:00
+627,18/04/2016 00:00,3,Not eligible,Khulna,Address627,Died,13/05/2016 00:00
+628,27/07/2016 00:00,45,Meningitis,Mymensingh,Address628,Died,02/08/2016 00:00
+629,04/08/2016 00:00,39,Not eligible,Rangpur,Address629,Died,03/09/2016 00:00
+630,16/08/2016 00:00,39,Not eligible,Sylhet,Address630,DORB,28/08/2016 00:00
+631,03/12/2016 00:00,24,Pneumonia,Dhaka,Address631,Referred,02/01/2017 00:00
+632,16/11/2016 00:00,49,Missing,Khulna,Address632,DORB,01/12/2016 00:00
+633,15/12/2016 00:00,30,Very Severe Disease,Rangpur,Address633,DORB,05/01/2017 00:00
+634,24/08/2016 00:00,21,Meningitis,Sylhet,Address634,Discharged,03/09/2016 00:00
+635,24/12/2016 00:00,15,Pneumonia,Rajshahi,Address635,DORB,19/01/2017 00:00
+636,06/06/2016 00:00,41,Very Severe Disease,Barisal,Address636,Died,29/06/2016 00:00
+637,27/06/2016 00:00,54,Pneumonia,Dhaka,Address637,Discharged,12/07/2016 00:00
+638,20/07/2016 00:00,10,Severe Pneumonia,Khulna,Address638,Discharged,16/08/2016 00:00
+639,18/02/2016 00:00,40,Missing,Dhaka,Address639,Referred,06/03/2016 00:00
+640,07/01/2016 00:00,37,Pneumonia,Rajshahi,Address640,DORB,03/02/2016 00:00
+641,21/07/2016 00:00,17,Not eligible,Barisal,Address641,Discharged,09/08/2016 00:00
+642,23/07/2016 00:00,41,Not eligible,Dhaka,Address642,Referred,07/08/2016 00:00
+643,24/06/2016 00:00,42,Missing,Rajshahi,Address643,Died,26/06/2016 00:00
+644,03/05/2016 00:00,36,Meningitis,Rajshahi,Address644,DORB,21/05/2016 00:00
+645,06/04/2016 00:00,38,Pneumonia,Rajshahi,Address645,Died,19/04/2016 00:00
+646,01/11/2016 00:00,56,Very Severe Disease,Barisal,Address646,DORB,29/11/2016 00:00
+647,05/02/2016 00:00,24,Missing,,Address647,Discharged,07/02/2016 00:00
+648,19/02/2016 00:00,44,Meningitis,Rangpur,Address648,Discharged,07/03/2016 00:00
+649,06/12/2016 00:00,16,Severe Pneumonia,Mymensingh,Address649,Died,22/12/2016 00:00
+650,27/09/2016 00:00,25,Very Severe Disease,Khulna,Address650,Referred,26/10/2016 00:00
+651,27/03/2016 00:00,2,Severe Pneumonia,Rajshahi,Address651,Discharged,22/04/2016 00:00
+652,25/01/2016 00:00,43,Severe Pneumonia,Khulna,Address652,Discharged,13/02/2016 00:00
+653,10/07/2016 00:00,8,Severe Pneumonia,Barisal,Address653,Referred,11/07/2016 00:00
+654,22/01/2016 00:00,57,Missing,Mymensingh,Address654,Referred,20/02/2016 00:00
+655,05/06/2017 00:00,52,Enteric Fever,Rajshahi,Address655,Referred,20/06/2017 00:00
+656,06/04/2017 00:00,6,Pneumonia,Rajshahi,Address656,DORB,24/04/2017 00:00
+657,15/06/2017 00:00,30,Very Severe Disease,Chittagong,Address657,Died,20/06/2017 00:00
+658,12/08/2017 00:00,26,Meningitis,Rangpur,Address658,Died,26/08/2017 00:00
+659,06/02/2017 00:00,6,Enteric Fever,Chittagong,Address659,Discharged,24/02/2017 00:00
+660,26/03/2017 00:00,51,Enteric Fever,Barisal,Address660,Referred,16/04/2017 00:00
+661,20/07/2017 00:00,16,Severe Pneumonia,Rangpur,Address661,DORB,30/07/2017 00:00
+662,16/10/2017 00:00,19,Very Severe Disease,Khulna,Address662,DORB,07/11/2017 00:00
+663,16/06/2017 00:00,49,Not eligible,Sylhet,Address663,Discharged,17/06/2017 00:00
+664,03/05/2017 00:00,29,Severe Pneumonia,Chittagong,Address664,Died,13/05/2017 00:00
+665,25/05/2017 00:00,38,Not eligible,Sylhet,Address665,Referred,06/06/2017 00:00
+666,21/05/2017 00:00,14,Pneumonia,Barisal,Address666,Discharged,28/05/2017 00:00
+667,18/11/2017 00:00,31,Meningitis,Khulna,Address667,DORB,03/12/2017 00:00
+668,04/12/2017 00:00,59,Pneumonia,Khulna,Address668,Referred,15/12/2017 00:00
+669,26/11/2017 00:00,52,Meningitis,Rajshahi,Address669,DORB,07/12/2017 00:00
+670,09/06/2017 00:00,35,Missing,Chittagong,Address670,DORB,08/07/2017 00:00
+671,18/12/2017 00:00,46,Meningitis,Sylhet,Address671,Discharged,13/01/2018 00:00
+672,16/02/2017 00:00,14,Missing,Rangpur,Address672,Discharged,28/02/2017 00:00
+673,11/08/2017 00:00,29,Pneumonia,Sylhet,Address673,Discharged,15/08/2017 00:00
+674,27/09/2017 00:00,20,Enteric Fever,Rangpur,Address674,Referred,16/10/2017 00:00
+675,15/12/2017 00:00,54,Pneumonia,Khulna,Address675,Referred,06/01/2018 00:00
+676,04/08/2017 00:00,34,Very Severe Disease,Khulna,Address676,DORB,25/08/2017 00:00
+677,03/09/2017 00:00,47,Very Severe Disease,Dhaka,Address677,DORB,08/09/2017 00:00
+678,19/11/2017 00:00,6,Not eligible,Chittagong,Address678,DORB,05/12/2017 00:00
+679,26/01/2017 00:00,1,Meningitis,Dhaka,Address679,Died,14/02/2017 00:00
+680,14/03/2017 00:00,20,Severe Pneumonia,Khulna,Address680,Referred,18/03/2017 00:00
+681,26/03/2017 00:00,11,Not eligible,,Address681,DORB,15/04/2017 00:00
+682,08/08/2017 00:00,25,Enteric Fever,Rangpur,Address682,Discharged,04/09/2017 00:00
+683,27/02/2017 00:00,51,Pneumonia,Barisal,Address683,Died,21/03/2017 00:00
+684,15/05/2017 00:00,20,Severe Pneumonia,Khulna,Address684,Referred,05/06/2017 00:00
+685,16/05/2017 00:00,34,Pneumonia,Dhaka,Address685,DORB,26/05/2017 00:00
+686,05/01/2017 00:00,8,Missing,Mymensingh,Address686,Referred,03/02/2017 00:00
+687,28/02/2017 00:00,51,Pneumonia,Chittagong,Address687,Referred,11/03/2017 00:00
+688,28/01/2017 00:00,16,Very Severe Disease,Rangpur,Address688,Discharged,02/02/2017 00:00
+689,18/11/2017 00:00,40,Very Severe Disease,Chittagong,Address689,Died,19/11/2017 00:00
+690,07/11/2017 00:00,28,Pneumonia,Barisal,Address690,Referred,20/11/2017 00:00
+691,09/04/2017 00:00,45,Pneumonia,Chittagong,Address691,Referred,18/04/2017 00:00
+692,25/10/2017 00:00,8,Meningitis,Sylhet,Address692,Referred,07/11/2017 00:00
+693,05/06/2017 00:00,10,Meningitis,Barisal,Address693,DORB,01/07/2017 00:00
+694,26/06/2017 00:00,12,Meningitis,Khulna,Address694,Referred,20/07/2017 00:00
+695,03/06/2017 00:00,37,Severe Pneumonia,Chittagong,Address695,DORB,06/06/2017 00:00
+696,17/02/2017 00:00,36,Enteric Fever,Sylhet,Address696,DORB,28/02/2017 00:00
+697,23/09/2017 00:00,22,Severe Pneumonia,Mymensingh,Address697,DORB,03/10/2017 00:00
+698,03/06/2017 00:00,49,Enteric Fever,Khulna,Address698,Died,23/06/2017 00:00
+699,22/03/2017 00:00,40,Meningitis,Dhaka,Address699,Referred,09/04/2017 00:00
+700,04/12/2017 00:00,46,Severe Pneumonia,Mymensingh,Address700,DORB,16/12/2017 00:00
+701,04/02/2017 00:00,13,Meningitis,Rangpur,Address701,Died,20/02/2017 00:00
+702,18/04/2017 00:00,38,Missing,Barisal,Address702,DORB,17/05/2017 00:00
+703,22/11/2017 00:00,16,Severe Pneumonia,Barisal,Address703,Referred,08/12/2017 00:00
+704,22/06/2017 00:00,14,Pneumonia,Rajshahi,Address704,Referred,24/06/2017 00:00
+705,18/06/2017 00:00,48,Not eligible,Rangpur,Address705,Died,21/06/2017 00:00
+706,15/03/2017 00:00,33,Enteric Fever,Rangpur,Address706,DORB,05/04/2017 00:00
+707,05/11/2017 00:00,25,Not eligible,,Address707,Died,12/11/2017 00:00
+708,25/11/2017 00:00,16,Pneumonia,Dhaka,Address708,Discharged,26/11/2017 00:00
+709,24/08/2017 00:00,30,Pneumonia,Barisal,Address709,DORB,19/09/2017 00:00
+710,26/04/2017 00:00,47,Pneumonia,Rangpur,Address710,DORB,29/04/2017 00:00
+711,23/08/2017 00:00,39,Severe Pneumonia,Mymensingh,Address711,Died,06/09/2017 00:00
+712,22/09/2017 00:00,50,Enteric Fever,Khulna,Address712,Discharged,03/10/2017 00:00
+713,21/05/2017 00:00,46,Severe Pneumonia,Sylhet,Address713,Referred,06/06/2017 00:00
+714,10/12/2017 00:00,9,Very Severe Disease,Mymensingh,Address714,Discharged,16/12/2017 00:00
+715,16/09/2017 00:00,37,Missing,Barisal,Address715,Discharged,20/09/2017 00:00
+716,05/02/2017 00:00,2,Enteric Fever,Rangpur,Address716,Died,03/03/2017 00:00
+717,25/01/2017 00:00,58,Severe Pneumonia,Sylhet,Address717,Died,09/02/2017 00:00
+718,03/09/2017 00:00,20,Pneumonia,Chittagong,Address718,DORB,25/09/2017 00:00
+719,24/11/2017 00:00,5,Enteric Fever,Mymensingh,Address719,Discharged,10/12/2017 00:00
+720,24/11/2017 00:00,23,Missing,Barisal,Address720,Discharged,01/12/2017 00:00
+721,04/07/2017 00:00,14,Enteric Fever,Rajshahi,Address721,Discharged,19/07/2017 00:00
+722,12/02/2017 00:00,47,Missing,Chittagong,Address722,Died,26/02/2017 00:00
+723,17/09/2017 00:00,41,Not eligible,Dhaka,Address723,Died,23/09/2017 00:00
+724,11/02/2017 00:00,1,Very Severe Disease,Rangpur,Address724,Died,02/03/2017 00:00
+725,22/08/2017 00:00,19,Pneumonia,Khulna,Address725,Died,10/09/2017 00:00
+726,16/08/2017 00:00,7,Pneumonia,Dhaka,Address726,Discharged,27/08/2017 00:00
+727,08/06/2017 00:00,8,Meningitis,Rangpur,Address727,DORB,21/06/2017 00:00
+728,18/10/2017 00:00,19,Very Severe Disease,Mymensingh,Address728,Referred,25/10/2017 00:00
+729,01/06/2017 00:00,24,Missing,Khulna,Address729,Discharged,25/06/2017 00:00
+730,20/06/2017 00:00,23,Severe Pneumonia,Mymensingh,Address730,Died,11/07/2017 00:00
+731,05/03/2018 00:00,25,Not eligible,Mymensingh,Address731,Died,26/03/2018 00:00
+732,09/02/2018 00:00,15,Enteric Fever,Rajshahi,Address732,Discharged,27/02/2018 00:00
+733,05/08/2018 00:00,57,Enteric Fever,Dhaka,Address733,DORB,06/08/2018 00:00
+734,20/01/2018 00:00,48,Very Severe Disease,Khulna,Address734,Died,03/02/2018 00:00
+735,09/07/2018 00:00,31,Very Severe Disease,Rangpur,Address735,DORB,19/07/2018 00:00
+736,01/06/2018 00:00,5,Meningitis,Chittagong,Address736,Discharged,17/06/2018 00:00
+737,01/07/2018 00:00,19,Not eligible,Rajshahi,Address737,Discharged,29/07/2018 00:00
+738,21/09/2018 00:00,11,Not eligible,Barisal,Address738,Discharged,28/09/2018 00:00
+739,17/02/2018 00:00,48,Missing,Khulna,Address739,Discharged,16/03/2018 00:00
+740,21/03/2018 00:00,35,Not eligible,Rajshahi,Address740,Referred,22/03/2018 00:00
+741,01/03/2018 00:00,15,Very Severe Disease,Rajshahi,Address741,Discharged,29/03/2018 00:00
+742,08/05/2018 00:00,32,Missing,Khulna,Address742,DORB,16/05/2018 00:00
+743,04/03/2018 00:00,29,Not eligible,Dhaka,Address743,DORB,12/03/2018 00:00
+744,04/11/2018 00:00,5,Very Severe Disease,Khulna,Address744,Died,11/11/2018 00:00
+745,24/04/2018 00:00,59,Severe Pneumonia,Rajshahi,Address745,Referred,02/05/2018 00:00
+746,13/06/2018 00:00,25,Missing,Sylhet,Address746,Discharged,10/07/2018 00:00
+747,27/08/2018 00:00,51,Meningitis,Sylhet,Address747,Died,12/09/2018 00:00
+748,16/06/2018 00:00,48,Meningitis,Rangpur,Address748,Died,14/07/2018 00:00
+749,02/01/2018 00:00,10,Enteric Fever,Chittagong,Address749,Died,15/01/2018 00:00
+750,20/10/2018 00:00,27,Enteric Fever,Chittagong,Address750,Discharged,23/10/2018 00:00
+751,11/12/2018 00:00,57,Meningitis,Barisal,Address751,DORB,30/12/2018 00:00
+752,22/09/2018 00:00,37,Pneumonia,Sylhet,Address752,DORB,10/10/2018 00:00
+753,16/05/2018 00:00,54,Severe Pneumonia,Rajshahi,Address753,Died,14/06/2018 00:00
+754,21/08/2018 00:00,48,Not eligible,Rangpur,Address754,Referred,15/09/2018 00:00
+755,20/02/2018 00:00,57,Not eligible,Rajshahi,Address755,Died,09/03/2018 00:00
+756,10/09/2018 00:00,34,Enteric Fever,Rangpur,Address756,Discharged,25/09/2018 00:00
+757,18/05/2018 00:00,36,Very Severe Disease,Rangpur,Address757,Died,19/05/2018 00:00
+758,11/11/2018 00:00,1,Missing,Rangpur,Address758,Discharged,18/11/2018 00:00
+759,09/06/2018 00:00,20,Severe Pneumonia,Barisal,Address759,DORB,12/06/2018 00:00
+760,08/12/2018 00:00,21,Pneumonia,Chittagong,Address760,Discharged,14/12/2018 00:00
+761,15/09/2018 00:00,57,Missing,Chittagong,Address761,Referred,15/10/2018 00:00
+762,18/12/2018 00:00,6,Missing,Rangpur,Address762,Referred,19/12/2018 00:00
+763,04/01/2018 00:00,17,Pneumonia,Rangpur,Address763,DORB,01/02/2018 00:00
+764,05/11/2018 00:00,8,Not eligible,Barisal,Address764,Died,23/11/2018 00:00
+765,02/08/2018 00:00,25,Severe Pneumonia,Mymensingh,Address765,Referred,01/09/2018 00:00
+766,02/01/2018 00:00,24,Meningitis,Barisal,Address766,Referred,09/01/2018 00:00
+767,04/07/2018 00:00,42,Severe Pneumonia,Mymensingh,Address767,DORB,26/07/2018 00:00
+768,17/01/2018 00:00,25,Meningitis,Khulna,Address768,Discharged,31/01/2018 00:00
+769,27/06/2018 00:00,24,Enteric Fever,Dhaka,Address769,Referred,21/07/2018 00:00
+770,15/07/2018 00:00,5,Not eligible,Mymensingh,Address770,Discharged,30/07/2018 00:00
+771,27/04/2018 00:00,53,Enteric Fever,Rangpur,Address771,Died,09/05/2018 00:00
+772,26/05/2018 00:00,24,Enteric Fever,Khulna,Address772,Referred,24/06/2018 00:00
+773,03/09/2018 00:00,18,Very Severe Disease,Rajshahi,Address773,Discharged,24/09/2018 00:00
+774,24/09/2018 00:00,13,Pneumonia,Chittagong,Address774,DORB,23/10/2018 00:00
+775,27/11/2018 00:00,16,Very Severe Disease,Rangpur,Address775,Died,28/11/2018 00:00
+776,24/07/2018 00:00,12,Enteric Fever,Sylhet,Address776,Discharged,28/07/2018 00:00
+777,18/07/2018 00:00,30,Severe Pneumonia,Chittagong,Address777,DORB,26/07/2018 00:00
+778,18/04/2018 00:00,45,Pneumonia,Rajshahi,Address778,DORB,26/04/2018 00:00
+779,01/05/2018 00:00,51,Enteric Fever,Rangpur,Address779,Referred,16/05/2018 00:00
+780,11/03/2018 00:00,41,Severe Pneumonia,Dhaka,Address780,Discharged,28/03/2018 00:00
+781,08/08/2018 00:00,1,Missing,Sylhet,Address781,Discharged,13/08/2018 00:00
+782,27/10/2018 00:00,57,Pneumonia,Dhaka,Address782,Referred,08/11/2018 00:00
+783,08/03/2018 00:00,46,Enteric Fever,Dhaka,Address783,Discharged,13/03/2018 00:00
+784,01/08/2018 00:00,53,Meningitis,Rangpur,Address784,Discharged,14/08/2018 00:00
+785,25/01/2018 00:00,19,Pneumonia,Chittagong,Address785,Discharged,13/02/2018 00:00
+786,26/05/2018 00:00,24,Meningitis,Dhaka,Address786,Discharged,02/06/2018 00:00
+787,22/09/2018 00:00,26,Not eligible,Chittagong,Address787,Referred,02/10/2018 00:00
+788,22/04/2018 00:00,42,Not eligible,Barisal,Address788,Discharged,16/05/2018 00:00
+789,09/06/2018 00:00,17,Missing,Mymensingh,Address789,Referred,30/06/2018 00:00
+790,01/09/2018 00:00,16,Pneumonia,Rangpur,Address790,Died,09/09/2018 00:00
+791,17/03/2018 00:00,38,Pneumonia,Rangpur,Address791,DORB,29/03/2018 00:00
+792,06/05/2018 00:00,28,Not eligible,Barisal,Address792,Referred,14/05/2018 00:00
+793,10/07/2018 00:00,44,Enteric Fever,Mymensingh,Address793,Referred,14/07/2018 00:00
+794,13/01/2018 00:00,12,Severe Pneumonia,Rangpur,Address794,Discharged,07/02/2018 00:00
+795,13/07/2018 00:00,57,Meningitis,Sylhet,Address795,Died,28/07/2018 00:00
+796,13/01/2018 00:00,42,Enteric Fever,Dhaka,Address796,Referred,31/01/2018 00:00
+797,12/05/2019 00:00,6,Very Severe Disease,Sylhet,Address797,Discharged,09/06/2019 00:00
+798,05/01/2019 00:00,32,Very Severe Disease,Chittagong,Address798,DORB,03/02/2019 00:00
+799,11/07/2019 00:00,57,Very Severe Disease,Sylhet,Address799,Discharged,12/07/2019 00:00
+800,06/04/2019 00:00,23,Pneumonia,Dhaka,Address800,Died,15/04/2019 00:00
+801,21/04/2019 00:00,35,Meningitis,Sylhet,Address801,DORB,16/05/2019 00:00
+802,09/06/2019 00:00,47,Severe Pneumonia,Barisal,Address802,Discharged,24/06/2019 00:00
+803,23/01/2019 00:00,55,Pneumonia,Mymensingh,Address803,Died,28/01/2019 00:00
+804,26/11/2019 00:00,27,Enteric Fever,Barisal,Address804,Discharged,27/11/2019 00:00
+805,08/08/2019 00:00,26,Missing,Barisal,Address805,Referred,10/08/2019 00:00
+806,27/04/2019 00:00,49,Missing,Dhaka,Address806,Died,01/05/2019 00:00
+807,13/06/2019 00:00,33,Not eligible,Sylhet,Address807,DORB,21/06/2019 00:00
+808,25/08/2019 00:00,33,Pneumonia,Rajshahi,Address808,Referred,05/09/2019 00:00
+809,12/10/2019 00:00,45,Not eligible,Chittagong,Address809,Discharged,19/10/2019 00:00
+810,02/05/2019 00:00,11,Meningitis,Rangpur,Address810,Discharged,30/05/2019 00:00
+811,07/03/2019 00:00,9,Pneumonia,Rajshahi,Address811,Referred,25/03/2019 00:00
+812,16/09/2019 00:00,21,Pneumonia,Sylhet,Address812,DORB,26/09/2019 00:00
+813,24/04/2019 00:00,43,Severe Pneumonia,Sylhet,Address813,Referred,29/04/2019 00:00
+814,07/07/2019 00:00,46,Meningitis,Rajshahi,Address814,Referred,05/08/2019 00:00
+815,22/11/2019 00:00,46,Not eligible,Rangpur,Address815,Discharged,14/12/2019 00:00
+816,15/09/2019 00:00,51,Meningitis,Rajshahi,Address816,Discharged,05/10/2019 00:00
+817,26/01/2019 00:00,12,Severe Pneumonia,Rajshahi,Address817,Referred,18/02/2019 00:00
+818,20/11/2019 00:00,12,Enteric Fever,Rangpur,Address818,Died,25/11/2019 00:00
+819,20/02/2019 00:00,38,Meningitis,Dhaka,Address819,Discharged,02/03/2019 00:00
+820,13/08/2019 00:00,34,Meningitis,Rangpur,Address820,DORB,12/09/2019 00:00
+821,21/06/2019 00:00,2,Missing,Chittagong,Address821,Discharged,27/06/2019 00:00
+822,21/09/2019 00:00,19,Very Severe Disease,Sylhet,Address822,Died,24/09/2019 00:00
+823,09/12/2019 00:00,21,Severe Pneumonia,Mymensingh,Address823,Died,25/12/2019 00:00
+824,24/03/2019 00:00,29,Enteric Fever,Rangpur,Address824,DORB,04/04/2019 00:00
+825,17/08/2019 00:00,7,Pneumonia,Barisal,Address825,Referred,22/08/2019 00:00
+826,06/09/2019 00:00,30,Very Severe Disease,,Address826,Discharged,22/09/2019 00:00
+827,08/03/2019 00:00,21,Enteric Fever,Rajshahi,Address827,DORB,10/03/2019 00:00
+828,14/10/2019 00:00,9,Pneumonia,Rangpur,Address828,Discharged,10/11/2019 00:00
+829,07/09/2019 00:00,27,Very Severe Disease,Rajshahi,Address829,Discharged,09/09/2019 00:00
+830,24/01/2019 00:00,5,Enteric Fever,Rangpur,Address830,Discharged,05/02/2019 00:00
+831,12/02/2019 00:00,3,Meningitis,Rangpur,Address831,Discharged,02/03/2019 00:00
+832,12/12/2019 00:00,26,Pneumonia,Rangpur,Address832,Referred,10/01/2020 00:00
+833,07/05/2019 00:00,36,Pneumonia,Rangpur,Address833,DORB,18/05/2019 00:00
+834,22/10/2019 00:00,19,Pneumonia,Barisal,Address834,Referred,14/11/2019 00:00
+835,15/10/2019 00:00,59,Enteric Fever,Rajshahi,Address835,Referred,07/11/2019 00:00
+836,17/12/2019 00:00,11,Not eligible,Khulna,Address836,Referred,09/01/2020 00:00
+837,25/04/2019 00:00,50,Very Severe Disease,Barisal,Address837,Died,13/05/2019 00:00
+838,04/12/2019 00:00,43,Meningitis,Chittagong,Address838,DORB,01/01/2020 00:00
+839,02/06/2019 00:00,38,Pneumonia,Khulna,Address839,Died,09/06/2019 00:00
+840,11/10/2019 00:00,31,Very Severe Disease,Sylhet,Address840,DORB,30/10/2019 00:00
+841,26/09/2019 00:00,16,Meningitis,Chittagong,Address841,Referred,20/10/2019 00:00
+842,02/01/2019 00:00,12,Pneumonia,Khulna,Address842,Discharged,06/01/2019 00:00
+843,08/12/2019 00:00,45,Not eligible,Khulna,Address843,DORB,29/12/2019 00:00
+844,25/02/2019 00:00,54,Not eligible,Mymensingh,Address844,DORB,02/03/2019 00:00
+845,10/03/2019 00:00,17,Severe Pneumonia,Sylhet,Address845,Referred,18/03/2019 00:00
+846,24/04/2019 00:00,9,Very Severe Disease,Khulna,Address846,Referred,10/05/2019 00:00
+847,16/04/2019 00:00,35,Enteric Fever,Khulna,Address847,Discharged,28/04/2019 00:00
+848,04/05/2019 00:00,20,Pneumonia,Chittagong,Address848,DORB,28/05/2019 00:00
+849,17/11/2019 00:00,35,Very Severe Disease,Khulna,Address849,Died,27/11/2019 00:00
+850,02/03/2019 00:00,40,Missing,Mymensingh,Address850,Referred,15/03/2019 00:00
+851,24/08/2019 00:00,21,Meningitis,Mymensingh,Address851,Referred,20/09/2019 00:00
+852,07/08/2019 00:00,42,Very Severe Disease,Sylhet,Address852,Died,22/08/2019 00:00
+853,22/04/2019 00:00,3,Severe Pneumonia,Chittagong,Address853,DORB,06/05/2019 00:00
+854,03/08/2019 00:00,3,Enteric Fever,,Address854,Referred,04/08/2019 00:00
+855,20/01/2019 00:00,49,Very Severe Disease,Mymensingh,Address855,DORB,29/01/2019 00:00
+856,04/05/2019 00:00,28,Meningitis,Dhaka,Address856,DORB,26/05/2019 00:00
+857,20/08/2019 00:00,32,Enteric Fever,Rangpur,Address857,DORB,17/09/2019 00:00
+858,24/04/2019 00:00,47,Meningitis,Dhaka,Address858,DORB,17/05/2019 00:00
+859,08/04/2019 00:00,59,Enteric Fever,Barisal,Address859,Referred,07/05/2019 00:00
+860,01/07/2019 00:00,4,Meningitis,Khulna,Address860,DORB,08/07/2019 00:00
+861,19/01/2019 00:00,42,Very Severe Disease,Chittagong,Address861,Died,08/02/2019 00:00
+862,24/07/2019 00:00,5,Meningitis,Dhaka,Address862,Referred,08/08/2019 00:00
+863,07/02/2019 00:00,21,Enteric Fever,Rajshahi,Address863,Died,08/03/2019 00:00
+864,08/10/2019 00:00,41,Missing,Sylhet,Address864,Discharged,15/10/2019 00:00
+865,24/02/2019 00:00,51,Severe Pneumonia,Rajshahi,Address865,Discharged,25/02/2019 00:00
+866,11/08/2019 00:00,18,Missing,Sylhet,Address866,Referred,04/09/2019 00:00
+867,06/05/2019 00:00,52,Enteric Fever,Rajshahi,Address867,Discharged,15/05/2019 00:00
+868,08/10/2019 00:00,6,Not eligible,Khulna,Address868,Referred,26/10/2019 00:00
+869,07/02/2019 00:00,43,Very Severe Disease,Rangpur,Address869,Died,09/02/2019 00:00
+870,10/07/2019 00:00,58,Pneumonia,Dhaka,Address870,Died,05/08/2019 00:00
+871,24/09/2019 00:00,26,Severe Pneumonia,Khulna,Address871,Died,13/10/2019 00:00
+872,14/04/2020 00:00,59,Meningitis,Sylhet,Address872,Referred,21/04/2020 00:00
+873,12/09/2020 00:00,46,Meningitis,Mymensingh,Address873,Discharged,07/10/2020 00:00
+874,27/02/2020 00:00,44,Pneumonia,Khulna,Address874,Discharged,18/03/2020 00:00
+875,28/03/2020 00:00,42,Not eligible,Barisal,Address875,DORB,15/04/2020 00:00
+876,13/08/2020 00:00,8,Not eligible,Rajshahi,Address876,DORB,28/08/2020 00:00
+877,07/05/2020 00:00,54,Enteric Fever,Chittagong,Address877,Referred,02/06/2020 00:00
+878,02/01/2020 00:00,49,Enteric Fever,Sylhet,Address878,DORB,09/01/2020 00:00
+879,25/08/2020 00:00,53,Enteric Fever,Barisal,Address879,Discharged,21/09/2020 00:00
+880,12/10/2020 00:00,18,Meningitis,Dhaka,Address880,DORB,20/10/2020 00:00
+881,01/04/2020 00:00,40,Severe Pneumonia,Rajshahi,Address881,DORB,10/04/2020 00:00
+882,02/05/2020 00:00,42,Severe Pneumonia,Rajshahi,Address882,Referred,17/05/2020 00:00
+883,26/03/2020 00:00,19,Pneumonia,Dhaka,Address883,Died,23/04/2020 00:00
+884,17/05/2020 00:00,48,Meningitis,Khulna,Address884,Discharged,24/05/2020 00:00
+885,01/04/2020 00:00,22,Meningitis,Sylhet,Address885,DORB,18/04/2020 00:00
+886,03/08/2020 00:00,41,Enteric Fever,Chittagong,Address886,Died,13/08/2020 00:00
+887,21/01/2020 00:00,4,Meningitis,Rangpur,Address887,Discharged,05/02/2020 00:00
+888,24/12/2020 00:00,56,Pneumonia,Rajshahi,Address888,Referred,04/01/2021 00:00
+889,11/09/2020 00:00,22,Severe Pneumonia,Rajshahi,Address889,Discharged,22/09/2020 00:00
+890,17/02/2020 00:00,38,Severe Pneumonia,Rangpur,Address890,Referred,05/03/2020 00:00
+891,27/06/2020 00:00,57,Not eligible,Barisal,Address891,DORB,08/07/2020 00:00
+892,14/05/2020 00:00,28,Very Severe Disease,Barisal,Address892,Died,31/05/2020 00:00
+893,12/07/2020 00:00,6,Severe Pneumonia,Mymensingh,Address893,DORB,16/07/2020 00:00
+894,24/08/2020 00:00,5,Severe Pneumonia,Khulna,Address894,Referred,16/09/2020 00:00
+895,17/04/2020 00:00,14,Severe Pneumonia,Rajshahi,Address895,Referred,24/04/2020 00:00
+896,01/01/2020 00:00,21,Not eligible,Barisal,Address896,Died,17/01/2020 00:00
+897,01/03/2020 00:00,3,Missing,Barisal,Address897,Died,23/03/2020 00:00
+898,12/10/2020 00:00,9,Pneumonia,Rangpur,Address898,Died,07/11/2020 00:00
+899,22/07/2020 00:00,45,Not eligible,Khulna,Address899,Died,13/08/2020 00:00
+900,01/12/2020 00:00,30,Not eligible,Khulna,Address900,Died,02/12/2020 00:00
+901,12/11/2020 00:00,4,Not eligible,Rajshahi,Address901,Discharged,20/11/2020 00:00
+902,12/03/2020 00:00,32,Not eligible,Chittagong,Address902,DORB,17/03/2020 00:00
+903,09/01/2020 00:00,31,Meningitis,Khulna,Address903,DORB,01/02/2020 00:00
+904,28/01/2020 00:00,41,Meningitis,Sylhet,Address904,Referred,17/02/2020 00:00
+905,10/09/2020 00:00,20,Enteric Fever,Dhaka,Address905,Discharged,23/09/2020 00:00
+906,16/02/2020 00:00,20,Very Severe Disease,Rajshahi,Address906,Discharged,27/02/2020 00:00
+907,07/04/2020 00:00,38,Meningitis,Mymensingh,Address907,DORB,08/04/2020 00:00
+908,28/10/2020 00:00,7,Very Severe Disease,,Address908,Discharged,14/11/2020 00:00
+909,14/11/2020 00:00,24,Severe Pneumonia,Khulna,Address909,Died,04/12/2020 00:00
+910,01/07/2020 00:00,32,Missing,Rajshahi,Address910,Referred,30/07/2020 00:00
+911,18/06/2020 00:00,16,Missing,Chittagong,Address911,Discharged,07/07/2020 00:00
+912,19/12/2020 00:00,24,Missing,Dhaka,Address912,DORB,07/01/2021 00:00
+913,15/01/2020 00:00,3,Enteric Fever,Dhaka,Address913,DORB,28/01/2020 00:00
+914,17/06/2020 00:00,19,Very Severe Disease,Rajshahi,Address914,Died,16/07/2020 00:00
+915,18/01/2020 00:00,58,Very Severe Disease,Khulna,Address915,Referred,06/02/2020 00:00
+916,23/10/2020 00:00,10,Meningitis,Rajshahi,Address916,DORB,09/11/2020 00:00
+917,03/03/2020 00:00,25,Meningitis,Rangpur,Address917,DORB,25/03/2020 00:00
+918,11/09/2020 00:00,44,Very Severe Disease,Mymensingh,Address918,Died,11/10/2020 00:00
+919,19/07/2020 00:00,53,Missing,Barisal,Address919,DORB,18/08/2020 00:00
+920,22/08/2020 00:00,57,Not eligible,Rangpur,Address920,Referred,26/08/2020 00:00
+921,27/06/2020 00:00,55,Not eligible,Chittagong,Address921,DORB,05/07/2020 00:00
+922,02/04/2020 00:00,2,Enteric Fever,Rangpur,Address922,Died,30/04/2020 00:00
+923,02/09/2020 00:00,35,Meningitis,Chittagong,Address923,DORB,14/09/2020 00:00
+924,08/05/2020 00:00,29,Not eligible,Mymensingh,Address924,Discharged,18/05/2020 00:00
+925,24/12/2020 00:00,35,Meningitis,Dhaka,Address925,Discharged,26/12/2020 00:00
+926,14/06/2020 00:00,58,Enteric Fever,Dhaka,Address926,Died,13/07/2020 00:00
