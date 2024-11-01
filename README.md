@@ -1,0 +1,2 @@
+# Vaccination-Dataset-Preprocessing-Analysis-and-Prediction-Using-Machine-Learning
+In this repository, we will analyze vaccination dataset (synthetic) in Bangladesh and clean the dataset first. Then, we shall analyze the dataset using basic statistical methods to determine different statistical information and observe interesting patterns. Furthermore, we shall apply basic ML for prediction purposes.
