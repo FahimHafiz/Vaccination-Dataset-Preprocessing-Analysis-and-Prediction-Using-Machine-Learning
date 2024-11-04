@@ -1,0 +1,823 @@
+Age (month),Case Definition,Zila,Outcome,year,Organism,source,method,Duration
+14,Very Severe Disease,Mymensingh,Referred,2010,Organism1,CSF,PCR,22
+9,Not eligible,Barisal,Died,2010,Organism1,Blood,culture,22
+13,Severe Pneumonia,Barisal,Referred,2010,Organism1,CSF,PCR,23
+54,Missing,Sylhet,Discharged,2010,Organism1,both,ICT,30
+42,Missing,Dhaka,Referred,2010,Organism1,Blood,culture,11
+12,Very Severe Disease,Sylhet,Referred,2010,Organism1,CSF,culture,28
+18,Very Severe Disease,Rangpur,Discharged,2010,Organism1,both,ICT,14
+20,Severe Pneumonia,Rajshahi,Referred,2010,Organism1,Blood,culture,12
+15,Not eligible,Barisal,Discharged,2010,Organism1,CSF,PCR,5
+18,Meningitis,Sylhet,Referred,2010,Organism1,Blood,culture,17
+31,Severe Pneumonia,Rangpur,Discharged,2010,Organism1,both,ICT,27
+48,Pneumonia,Rangpur,Referred,2010,Organism1,both,PCR,8
+54,Very Severe Disease,Rangpur,Died,2010,Organism1,CSF,PCR,2
+27,Very Severe Disease,Rajshahi,Referred,2010,Organism1,both,PCR,27
+57,Missing,Mymensingh,Died,2010,Organism1,Blood,culture,15
+39,Severe Pneumonia,Khulna,Referred,2010,Organism1,CSF,culture,24
+56,Severe Pneumonia,Mymensingh,Discharged,2010,Organism1,both,PCR,11
+49,Pneumonia,Barisal,DORB,2010,Organism1,CSF,culture,3
+20,Not eligible,Khulna,Died,2010,Organism1,both,PCR,22
+10,Very Severe Disease,Dhaka,Referred,2010,Organism1,Blood,culture,23
+46,Severe Pneumonia,Rajshahi,Discharged,2010,Organism1,both,ICT,21
+49,Missing,Mymensingh,DORB,2010,Organism1,Blood,culture,22
+37,Pneumonia,Rajshahi,Discharged,2010,Organism1,CSF,PCR,7
+31,Very Severe Disease,Khulna,Died,2010,Organism1,CSF,culture,21
+18,Missing,Rajshahi,DORB,2010,Organism1,Blood,culture,6
+8,Severe Pneumonia,Khulna,Referred,2010,Organism1,Blood,culture,3
+37,Not eligible,Mymensingh,DORB,2010,Organism1,both,culture,6
+40,Not eligible,Sylhet,Discharged,2010,Organism1,CSF,PCR,5
+54,Missing,Dhaka,DORB,2010,Organism1,Blood,culture,30
+56,Severe Pneumonia,Barisal,Referred,2010,Organism1,CSF,ICT,13
+13,Very Severe Disease,Mymensingh,Died,2010,Organism1,Blood,culture,12
+56,Very Severe Disease,Mymensingh,Died,2010,Organism1,CSF,culture,19
+5,Meningitis,Rangpur,Referred,2010,Organism1,CSF,culture,25
+34,Missing,Sylhet,Died,2010,Organism1,Blood,culture,12
+59,Not eligible,Rangpur,Died,2010,Organism1,CSF,PCR,3
+42,Missing,Chittagong,DORB,2010,Organism1,both,PCR,1
+16,Pneumonia,Khulna,Discharged,2010,Organism1,both,culture,29
+29,Severe Pneumonia,Rangpur,Died,2010,Organism1,CSF,PCR,1
+3,Missing,Mymensingh,Died,2010,Organism1,Blood,culture,8
+36,Severe Pneumonia,Mymensingh,Died,2010,Organism1,Blood,culture,19
+59,Pneumonia,Chittagong,Died,2010,Organism1,Blood,culture,25
+2,Missing,Rajshahi,DORB,2010,Organism1,Blood,culture,17
+2,Severe Pneumonia,Khulna,DORB,2010,Organism1,both,culture,26
+49,Severe Pneumonia,Dhaka,Referred,2010,Organism1,both,PCR,2
+33,Pneumonia,Mymensingh,DORB,2010,Organism1,CSF,ICT,12
+11,Missing,Mymensingh,DORB,2010,Organism1,both,PCR,21
+23,Meningitis,Rangpur,DORB,2010,Organism1,Blood,culture,3
+50,Missing,Rangpur,Died,2010,Organism1,CSF,PCR,11
+6,Very Severe Disease,Rangpur,Referred,2010,Organism1,both,PCR,18
+22,Missing,Rajshahi,DORB,2010,Organism1,Blood,culture,21
+26,Missing,Chittagong,DORB,2010,Organism1,CSF,culture,23
+38,Severe Pneumonia,Rangpur,Died,2010,Organism1,both,culture,9
+5,Pneumonia,Dhaka,DORB,2010,Organism1,Blood,culture,5
+45,Missing,Dhaka,DORB,2010,Organism1,Blood,culture,1
+7,Very Severe Disease,Khulna,Referred,2010,Organism1,CSF,PCR,1
+16,Pneumonia,Mymensingh,Referred,2010,Organism1,both,culture,24
+42,Missing,Sylhet,Died,2010,Organism1,both,culture,27
+5,Very Severe Disease,Barisal,Discharged,2010,Organism1,Blood,culture,10
+53,Not eligible,Sylhet,DORB,2010,Organism1,both,ICT,5
+19,Meningitis,Chittagong,Discharged,2010,Organism1,Blood,culture,7
+28,Meningitis,Chittagong,DORB,2010,Organism1,CSF,ICT,27
+20,Very Severe Disease,Rangpur,Discharged,2010,Organism1,Blood,culture,13
+19,Missing,Rajshahi,Referred,2010,Organism1,both,PCR,14
+14,Not eligible,Rangpur,Referred,2010,Organism1,Blood,culture,18
+11,Severe Pneumonia,Mymensingh,Died,2010,Organism1,Blood,culture,16
+20,Pneumonia,Mymensingh,DORB,2010,Organism1,Blood,culture,12
+55,Severe Pneumonia,Mymensingh,DORB,2011,Organism1,Blood,culture,18
+27,Severe Pneumonia,Barisal,Referred,2011,Organism1,CSF,culture,20
+34,Pneumonia,Dhaka,Died,2011,Organism1,CSF,culture,24
+13,Severe Pneumonia,Chittagong,Referred,2011,Organism1,CSF,PCR,22
+45,Missing,Rangpur,Discharged,2011,Organism1,Blood,culture,16
+56,Pneumonia,Chittagong,Discharged,2011,Organism1,Blood,culture,26
+12,Severe Pneumonia,Khulna,Died,2011,Organism1,CSF,culture,5
+28,Very Severe Disease,Rangpur,DORB,2011,Organism1,both,culture,3
+39,Pneumonia,Chittagong,Referred,2011,Organism1,CSF,ICT,12
+40,Missing,Rangpur,Died,2011,Organism1,CSF,PCR,13
+16,Very Severe Disease,Dhaka,Died,2011,Organism1,CSF,PCR,22
+54,Missing,Rajshahi,Discharged,2011,Organism1,CSF,culture,9
+24,Severe Pneumonia,Rajshahi,Died,2011,Organism1,CSF,ICT,15
+17,Severe Pneumonia,Khulna,Died,2011,Organism1,Blood,culture,23
+16,Severe Pneumonia,Dhaka,DORB,2011,Organism1,CSF,PCR,11
+17,Not eligible,Barisal,Referred,2011,Organism1,CSF,PCR,30
+22,Missing,Barisal,Discharged,2011,Organism1,Blood,culture,27
+57,Missing,Dhaka,DORB,2011,Organism1,CSF,culture,18
+41,Meningitis,Barisal,Died,2011,Organism1,both,PCR,1
+45,Pneumonia,Rangpur,Discharged,2011,Organism1,both,culture,26
+29,Not eligible,Rangpur,Died,2011,Organism1,both,culture,24
+18,Severe Pneumonia,Rajshahi,Died,2011,Organism1,both,PCR,19
+37,Not eligible,Rajshahi,Referred,2011,Organism1,both,PCR,17
+29,Meningitis,Mymensingh,Died,2011,Organism1,Blood,culture,15
+36,Meningitis,Rajshahi,Referred,2011,Organism1,CSF,PCR,11
+8,Severe Pneumonia,Khulna,Referred,2011,Organism2,CSF,PCR,8
+44,Meningitis,Chittagong,Died,2011,Organism2,CSF,ICT,27
+12,Missing,Rangpur,Discharged,2011,Organism2,Blood,culture,23
+34,Missing,Mymensingh,Died,2011,Organism2,Blood,culture,10
+35,Not eligible,Chittagong,Died,2011,Organism2,both,culture,7
+38,Severe Pneumonia,Barisal,Discharged,2011,Organism2,CSF,culture,21
+48,Severe Pneumonia,Khulna,Referred,2011,Organism2,Blood,culture,13
+2,Not eligible,Barisal,Discharged,2011,Organism2,Blood,culture,2
+2,Very Severe Disease,Rangpur,Died,2011,Organism2,Blood,culture,20
+46,Pneumonia,Rajshahi,Referred,2011,Organism1,both,culture,18
+34,Missing,Khulna,Died,2011,Organism1,CSF,culture,8
+46,Not eligible,Dhaka,Discharged,2011,Organism1,Blood,culture,2
+46,Not eligible,Dhaka,DORB,2011,Organism1,both,culture,25
+46,Severe Pneumonia,Rangpur,DORB,2011,Organism1,Blood,culture,5
+28,Pneumonia,Khulna,DORB,2011,Organism1,both,culture,17
+2,Missing,Dhaka,DORB,2011,Organism1,both,ICT,5
+22,Not eligible,Mymensingh,Discharged,2011,Organism1,CSF,ICT,27
+28,Missing,Mymensingh,Discharged,2011,Organism1,both,culture,13
+47,Not eligible,Mymensingh,Referred,2011,Organism1,Blood,culture,16
+42,Pneumonia,Sylhet,Discharged,2011,Organism1,CSF,ICT,22
+38,Missing,Barisal,Referred,2011,Organism1,both,ICT,26
+52,Pneumonia,Sylhet,Referred,2011,Organism1,Blood,culture,24
+10,Not eligible,Dhaka,DORB,2011,Organism1,Blood,culture,17
+18,Meningitis,Chittagong,Died,2011,Organism1,CSF,ICT,13
+56,Meningitis,Barisal,Discharged,2011,Organism1,CSF,PCR,3
+14,Pneumonia,Rangpur,Referred,2011,Organism1,CSF,ICT,13
+12,Pneumonia,Dhaka,Discharged,2011,Organism1,Blood,culture,7
+27,Very Severe Disease,Rajshahi,Died,2011,Organism1,CSF,culture,7
+7,Pneumonia,Khulna,DORB,2011,Organism1,both,culture,19
+15,Pneumonia,Chittagong,Referred,2011,Organism1,Blood,culture,4
+30,Not eligible,Sylhet,DORB,2011,Organism1,Blood,culture,3
+56,Very Severe Disease,Mymensingh,DORB,2011,Organism1,both,PCR,10
+50,Meningitis,Khulna,DORB,2011,Organism1,both,ICT,5
+56,Severe Pneumonia,Mymensingh,DORB,2011,Organism1,CSF,PCR,23
+1,Pneumonia,Chittagong,Referred,2011,Organism1,CSF,ICT,10
+14,Missing,Khulna,DORB,2011,Organism1,both,PCR,3
+41,Severe Pneumonia,Rangpur,Referred,2011,Organism1,both,culture,6
+51,Meningitis,Mymensingh,Referred,2011,Organism1,CSF,culture,20
+2,Severe Pneumonia,Barisal,DORB,2011,Organism1,both,ICT,21
+6,Pneumonia,Sylhet,Died,2011,Organism1,Blood,culture,10
+18,Severe Pneumonia,Rangpur,Discharged,2011,Organism1,both,ICT,5
+10,Pneumonia,Rangpur,DORB,2011,Organism1,both,culture,4
+29,Very Severe Disease,Khulna,DORB,2011,Organism1,both,ICT,1
+43,Pneumonia,Sylhet,Discharged,2011,Organism1,Blood,culture,4
+26,Missing,Dhaka,Referred,2011,Organism1,Blood,culture,16
+38,Missing,Chittagong,Died,2011,Organism1,Blood,culture,14
+52,Not eligible,Dhaka,DORB,2011,Organism1,CSF,ICT,22
+57,Missing,Sylhet,Died,2011,Organism1,Blood,culture,30
+52,Missing,Mymensingh,DORB,2011,Organism1,both,ICT,5
+17,Meningitis,Rangpur,DORB,2011,Organism1,CSF,culture,7
+1,Missing,Dhaka,Discharged,2011,Organism1,Blood,culture,21
+12,Not eligible,Sylhet,Referred,2011,Organism1,CSF,culture,7
+19,Missing,Dhaka,Discharged,2011,Organism1,CSF,PCR,14
+44,Meningitis,Khulna,Died,2011,Organism1,CSF,culture,9
+44,Very Severe Disease,Rajshahi,Discharged,2011,Organism1,CSF,ICT,8
+47,Meningitis,Rajshahi,Died,2011,Organism1,CSF,culture,24
+39,Meningitis,Mymensingh,DORB,2011,Organism1,Blood,culture,3
+38,Meningitis,Rajshahi,DORB,2011,Organism1,CSF,PCR,20
+46,Meningitis,Sylhet,Discharged,2011,Organism1,Blood,culture,18
+42,Missing,Khulna,Referred,2011,Organism1,Blood,culture,23
+43,Not eligible,Mymensingh,DORB,2011,Organism1,Blood,culture,2
+10,Missing,Rajshahi,Discharged,2011,Organism1,CSF,ICT,27
+21,Pneumonia,Sylhet,Died,2011,Organism1,both,culture,7
+32,Not eligible,Khulna,Discharged,2011,Organism1,Blood,culture,10
+40,Pneumonia,Sylhet,Referred,2011,Organism1,Blood,culture,28
+15,Severe Pneumonia,Barisal,Discharged,2011,Organism1,CSF,culture,24
+55,Not eligible,Mymensingh,DORB,2011,Organism1,CSF,PCR,26
+4,Not eligible,Mymensingh,Referred,2011,Organism1,both,culture,18
+8,Missing,Khulna,Referred,2012,Organism3,both,ICT,28
+49,Missing,Chittagong,Referred,2012,Organism3,both,culture,27
+16,Pneumonia,Chittagong,Died,2012,Organism3,CSF,culture,18
+4,Not eligible,Sylhet,Died,2012,Organism3,CSF,culture,19
+25,Not eligible,Mymensingh,DORB,2012,Organism3,CSF,PCR,27
+25,Meningitis,Chittagong,Died,2012,Organism3,CSF,ICT,11
+44,Pneumonia,Mymensingh,Died,2012,Organism3,both,PCR,5
+59,Very Severe Disease,Rangpur,Discharged,2012,Organism3,both,culture,19
+23,Not eligible,Rajshahi,Died,2012,Organism3,CSF,ICT,5
+34,Meningitis,Sylhet,Referred,2012,Organism3,CSF,ICT,13
+34,Severe Pneumonia,Sylhet,DORB,2012,Organism3,both,culture,11
+48,Meningitis,Mymensingh,Discharged,2012,Organism3,Blood,culture,20
+42,Very Severe Disease,Chittagong,Died,2012,Organism3,both,ICT,27
+27,Meningitis,Chittagong,Referred,2012,Organism3,CSF,ICT,23
+36,Meningitis,Rangpur,Referred,2012,Organism3,Blood,culture,18
+20,Not eligible,Dhaka,DORB,2012,Organism3,CSF,ICT,24
+54,Very Severe Disease,Khulna,DORB,2012,Organism3,Blood,culture,4
+2,Not eligible,Mymensingh,Died,2012,Organism3,both,PCR,28
+21,Meningitis,Rangpur,Referred,2012,Organism3,both,culture,27
+43,Missing,Chittagong,Died,2012,Organism3,CSF,PCR,22
+12,Missing,Mymensingh,DORB,2012,Organism3,Blood,culture,9
+52,Very Severe Disease,Rajshahi,DORB,2012,Organism3,CSF,PCR,5
+45,Pneumonia,Chittagong,Discharged,2012,Organism3,CSF,culture,22
+4,Pneumonia,Khulna,Died,2012,Organism3,Blood,culture,14
+13,Severe Pneumonia,Sylhet,DORB,2012,Organism3,CSF,culture,16
+43,Meningitis,Barisal,Discharged,2012,Organism3,Blood,culture,26
+24,Severe Pneumonia,Mymensingh,Discharged,2012,Organism3,Blood,culture,28
+54,Pneumonia,Sylhet,DORB,2012,Organism3,Blood,culture,1
+23,Severe Pneumonia,Rangpur,Discharged,2012,Organism3,both,PCR,25
+55,Very Severe Disease,Mymensingh,Referred,2012,Organism3,Blood,culture,28
+40,Pneumonia,Sylhet,Discharged,2012,Organism3,CSF,ICT,14
+58,Missing,Khulna,Died,2012,Organism3,Blood,culture,13
+52,Pneumonia,Rajshahi,Died,2012,Organism3,both,ICT,26
+9,Very Severe Disease,Sylhet,Referred,2012,Organism2,Blood,culture,26
+42,Severe Pneumonia,Khulna,DORB,2012,Organism2,CSF,culture,15
+14,Severe Pneumonia,Rangpur,Referred,2012,Organism2,both,PCR,5
+2,Missing,Dhaka,Referred,2012,Organism2,Blood,culture,3
+20,Not eligible,Dhaka,Referred,2012,Organism2,Blood,culture,28
+36,Severe Pneumonia,Barisal,Discharged,2012,Organism2,both,ICT,25
+9,Pneumonia,Barisal,Referred,2012,Organism2,both,PCR,4
+1,Missing,Rajshahi,Died,2012,Organism2,both,culture,30
+3,Meningitis,Dhaka,Died,2012,Organism2,CSF,culture,6
+30,Not eligible,Dhaka,Referred,2012,Organism2,Blood,culture,15
+48,Not eligible,Rajshahi,Referred,2012,Organism2,Blood,culture,1
+37,Missing,Chittagong,Discharged,2012,Organism3,both,culture,4
+4,Pneumonia,Barisal,DORB,2012,Organism2,Blood,culture,24
+12,Severe Pneumonia,Dhaka,Referred,2012,Organism2,both,culture,22
+12,Severe Pneumonia,Rangpur,Referred,2012,Organism2,both,culture,6
+26,Not eligible,Rajshahi,Referred,2012,Organism2,CSF,culture,14
+16,Not eligible,Chittagong,Discharged,2012,Organism2,both,culture,27
+35,Not eligible,Khulna,DORB,2012,Organism2,Blood,culture,2
+3,Pneumonia,Mymensingh,Died,2012,Organism2,both,ICT,28
+15,Pneumonia,Khulna,Discharged,2012,Organism2,Blood,culture,4
+29,Very Severe Disease,Dhaka,DORB,2012,Organism3,Blood,culture,8
+46,Meningitis,Dhaka,Discharged,2012,Organism3,both,ICT,9
+50,Not eligible,Sylhet,DORB,2012,Organism3,CSF,culture,4
+45,Missing,Mymensingh,Referred,2012,Organism3,both,culture,26
+36,Severe Pneumonia,Mymensingh,DORB,2012,Organism3,Blood,culture,18
+5,Pneumonia,Sylhet,DORB,2012,Organism2,CSF,culture,28
+40,Severe Pneumonia,Sylhet,Discharged,2012,Organism2,CSF,ICT,18
+16,Missing,Barisal,Referred,2012,Organism2,Blood,culture,12
+19,Severe Pneumonia,Rajshahi,DORB,2012,Organism2,both,ICT,12
+29,Missing,Dhaka,Died,2012,Organism2,Blood,culture,30
+18,Missing,Rangpur,Discharged,2012,Organism2,both,PCR,19
+41,Severe Pneumonia,Rangpur,Discharged,2013,Organism3,CSF,PCR,11
+44,Severe Pneumonia,Khulna,DORB,2013,Organism3,Blood,culture,14
+35,Severe Pneumonia,Sylhet,Died,2013,Organism3,Blood,culture,30
+15,Severe Pneumonia,Sylhet,DORB,2013,Organism3,CSF,ICT,4
+24,Not eligible,Dhaka,Referred,2013,Organism3,Blood,culture,27
+51,Very Severe Disease,Rangpur,Referred,2013,Organism3,both,ICT,24
+12,Not eligible,Dhaka,Discharged,2013,Organism3,Blood,culture,16
+10,Not eligible,Khulna,DORB,2013,Organism3,both,PCR,9
+1,Missing,Chittagong,DORB,2013,Organism3,Blood,culture,11
+31,Severe Pneumonia,Khulna,Discharged,2013,Organism3,both,ICT,9
+30,Severe Pneumonia,Sylhet,Referred,2013,Organism3,Blood,culture,1
+53,Pneumonia,Chittagong,DORB,2013,Organism3,Blood,culture,17
+30,Very Severe Disease,Chittagong,DORB,2013,Organism3,both,PCR,10
+42,Missing,Rangpur,DORB,2013,Organism3,Blood,culture,21
+7,Not eligible,Khulna,Died,2013,Organism3,both,PCR,7
+15,Meningitis,Sylhet,Died,2013,Organism3,CSF,PCR,16
+27,Missing,Chittagong,Discharged,2013,Organism3,CSF,culture,7
+50,Pneumonia,Barisal,Died,2013,Organism3,both,PCR,24
+23,Pneumonia,Khulna,DORB,2013,Organism3,both,culture,11
+12,Pneumonia,Rangpur,Died,2013,Organism3,CSF,PCR,4
+53,Pneumonia,Dhaka,DORB,2013,Organism3,both,culture,15
+28,Pneumonia,Rangpur,Referred,2013,Organism3,CSF,ICT,16
+44,Severe Pneumonia,Dhaka,Discharged,2013,Organism4,both,culture,26
+33,Meningitis,Rangpur,Discharged,2013,Organism3,both,ICT,23
+6,Meningitis,Dhaka,DORB,2013,Organism3,Blood,culture,19
+43,Meningitis,Khulna,Referred,2013,Organism3,both,ICT,17
+30,Severe Pneumonia,Rangpur,Referred,2013,Organism3,Blood,culture,27
+42,Severe Pneumonia,Chittagong,DORB,2013,Organism3,Blood,culture,22
+10,Not eligible,Barisal,Died,2013,Organism3,Blood,culture,8
+50,Pneumonia,Rangpur,Discharged,2013,Organism3,both,PCR,29
+57,Pneumonia,Chittagong,Died,2013,Organism3,CSF,culture,22
+57,Very Severe Disease,Mymensingh,Referred,2013,Organism3,both,PCR,23
+43,Very Severe Disease,Rangpur,DORB,2013,Organism3,CSF,culture,15
+56,Very Severe Disease,Rangpur,DORB,2013,Organism3,CSF,ICT,13
+37,Missing,Rajshahi,Died,2013,Organism3,both,ICT,24
+2,Severe Pneumonia,Barisal,DORB,2013,Organism3,CSF,ICT,1
+29,Meningitis,Chittagong,Referred,2013,Organism3,Blood,culture,10
+38,Missing,Dhaka,DORB,2013,Organism3,Blood,culture,26
+51,Meningitis,Khulna,DORB,2013,Organism3,CSF,PCR,30
+40,Pneumonia,Rangpur,DORB,2013,Organism3,Blood,culture,27
+48,Very Severe Disease,Mymensingh,Referred,2013,Organism3,CSF,culture,1
+39,Very Severe Disease,Sylhet,DORB,2013,Organism3,Blood,culture,6
+58,Missing,Sylhet,Discharged,2013,Organism3,both,ICT,1
+36,Missing,Chittagong,Died,2013,Organism3,CSF,PCR,19
+24,Very Severe Disease,Sylhet,Discharged,2013,Organism3,CSF,culture,1
+34,Very Severe Disease,Dhaka,DORB,2013,Organism3,CSF,ICT,1
+58,Meningitis,Sylhet,DORB,2013,Organism3,Blood,culture,24
+6,Very Severe Disease,Chittagong,Died,2013,Organism3,both,ICT,10
+51,Missing,Rajshahi,Died,2013,Organism3,Blood,culture,1
+26,Meningitis,Barisal,Died,2013,Organism3,Blood,culture,16
+35,Pneumonia,Barisal,Died,2013,Organism3,both,ICT,28
+5,Very Severe Disease,Sylhet,Referred,2013,Organism3,CSF,ICT,2
+12,Missing,Rangpur,Discharged,2013,Organism3,CSF,culture,25
+13,Very Severe Disease,Sylhet,Died,2013,Organism3,Blood,culture,30
+45,Not eligible,Barisal,Discharged,2013,Organism3,Blood,culture,25
+35,Missing,Rajshahi,Died,2013,Organism3,CSF,culture,10
+22,Pneumonia,Khulna,Died,2013,Organism3,CSF,ICT,20
+20,Severe Pneumonia,Rangpur,Referred,2013,Organism3,Blood,culture,25
+46,Not eligible,Chittagong,DORB,2013,Organism3,both,PCR,1
+28,Very Severe Disease,Sylhet,DORB,2013,Organism3,CSF,PCR,20
+2,Missing,Rangpur,DORB,2013,Organism3,both,ICT,3
+51,Meningitis,Rangpur,Referred,2013,Organism3,both,culture,6
+22,Very Severe Disease,Dhaka,Discharged,2013,Organism3,Blood,culture,28
+9,Meningitis,Khulna,Died,2013,Organism3,both,culture,21
+17,Missing,Rangpur,Died,2013,Organism3,Blood,culture,20
+30,Missing,Dhaka,Discharged,2013,Organism3,Blood,culture,16
+25,Missing,Dhaka,Referred,2013,Organism3,CSF,PCR,25
+58,Pneumonia,Chittagong,DORB,2013,Organism3,both,PCR,9
+30,Very Severe Disease,Rangpur,Died,2013,Organism3,Blood,culture,18
+43,Very Severe Disease,Rajshahi,Died,2013,Organism3,Blood,culture,5
+56,Very Severe Disease,Chittagong,DORB,2013,Organism3,Blood,culture,10
+25,Very Severe Disease,Sylhet,DORB,2013,Organism3,both,culture,11
+16,Very Severe Disease,Khulna,DORB,2013,Organism3,CSF,PCR,8
+57,Very Severe Disease,Dhaka,Referred,2013,Organism3,Blood,culture,24
+11,Very Severe Disease,Dhaka,Discharged,2013,Organism3,both,PCR,26
+43,Missing,Chittagong,DORB,2013,Organism3,both,ICT,17
+21,Meningitis,Rangpur,DORB,2013,Organism3,both,PCR,25
+48,Not eligible,Barisal,Died,2013,Organism3,Blood,culture,5
+1,Not eligible,Sylhet,Died,2013,Organism3,both,PCR,24
+54,Not eligible,Chittagong,Referred,2013,Organism3,Blood,culture,8
+42,Not eligible,Khulna,Died,2014,Organism4,Blood,culture,11
+10,Not eligible,Barisal,Referred,2014,Organism4,CSF,culture,21
+5,Very Severe Disease,Rajshahi,Referred,2014,Organism4,CSF,PCR,10
+45,Not eligible,Mymensingh,Died,2014,Organism4,Blood,culture,28
+55,Pneumonia,Chittagong,DORB,2014,Organism4,Blood,culture,14
+30,Severe Pneumonia,Sylhet,DORB,2014,Organism4,CSF,ICT,30
+21,Severe Pneumonia,Rajshahi,Died,2014,Organism4,both,ICT,27
+26,Meningitis,Sylhet,Died,2014,Organism4,both,ICT,24
+53,Meningitis,Khulna,Died,2014,Organism4,CSF,culture,8
+13,Very Severe Disease,Khulna,Discharged,2014,Organism4,CSF,culture,18
+54,Missing,Khulna,Died,2014,Organism4,CSF,ICT,10
+19,Severe Pneumonia,Khulna,DORB,2014,Organism4,CSF,culture,24
+17,Not eligible,Rajshahi,DORB,2014,Organism4,both,PCR,11
+15,Not eligible,Barisal,Discharged,2014,Organism4,CSF,culture,13
+54,Missing,Barisal,DORB,2014,Organism4,both,ICT,28
+48,Very Severe Disease,Dhaka,Died,2014,Organism4,Blood,culture,9
+23,Meningitis,Barisal,Referred,2014,Organism4,CSF,culture,3
+29,Pneumonia,Sylhet,Referred,2014,Organism4,Blood,culture,25
+12,Pneumonia,Sylhet,Referred,2014,Organism4,CSF,ICT,13
+19,Not eligible,Dhaka,Discharged,2014,Organism4,CSF,PCR,20
+45,Not eligible,Khulna,Referred,2014,Organism4,both,PCR,20
+29,Not eligible,Dhaka,Referred,2014,Organism4,CSF,culture,30
+4,Pneumonia,Barisal,DORB,2014,Organism4,both,PCR,30
+14,Very Severe Disease,Rangpur,DORB,2014,Organism4,both,ICT,22
+18,Meningitis,Rajshahi,Died,2014,Organism4,Blood,culture,24
+21,Pneumonia,Rajshahi,Discharged,2014,Organism4,Blood,culture,27
+10,Pneumonia,Mymensingh,Discharged,2014,Organism4,CSF,ICT,11
+41,Very Severe Disease,Khulna,Discharged,2014,Organism4,CSF,culture,4
+59,Severe Pneumonia,Khulna,DORB,2014,Organism4,CSF,culture,26
+26,Severe Pneumonia,Sylhet,Died,2014,Organism4,Blood,culture,20
+3,Missing,Rangpur,Died,2014,Organism4,CSF,PCR,24
+36,Very Severe Disease,Sylhet,Discharged,2014,Organism4,both,PCR,8
+26,Very Severe Disease,Sylhet,Died,2014,Organism4,CSF,culture,12
+16,Very Severe Disease,Dhaka,DORB,2014,Organism4,Blood,culture,14
+48,Missing,Barisal,Referred,2014,Organism4,CSF,ICT,29
+41,Not eligible,Rajshahi,Discharged,2014,Organism4,CSF,ICT,30
+53,Not eligible,Dhaka,Discharged,2014,Organism4,Blood,culture,9
+44,Not eligible,Chittagong,Referred,2014,Organism4,both,PCR,16
+25,Missing,Rajshahi,Referred,2014,Organism4,both,PCR,3
+2,Pneumonia,Dhaka,Referred,2014,Organism4,CSF,PCR,29
+37,Severe Pneumonia,Chittagong,Died,2014,Organism4,CSF,PCR,27
+15,Very Severe Disease,Barisal,DORB,2014,Organism4,both,ICT,27
+8,Not eligible,Chittagong,DORB,2014,Organism4,Blood,culture,4
+13,Very Severe Disease,Dhaka,Discharged,2014,Organism4,Blood,culture,25
+54,Severe Pneumonia,Chittagong,Discharged,2014,Organism4,Blood,culture,23
+13,Pneumonia,Dhaka,Discharged,2014,Organism4,CSF,PCR,11
+57,Missing,Rangpur,Discharged,2014,Organism4,both,culture,14
+13,Very Severe Disease,Chittagong,Referred,2014,Organism4,both,culture,21
+30,Not eligible,Sylhet,Referred,2014,Organism4,CSF,culture,11
+41,Very Severe Disease,Barisal,Referred,2014,Organism4,Blood,culture,29
+27,Meningitis,Chittagong,Referred,2014,Organism4,both,PCR,19
+13,Not eligible,Chittagong,Referred,2014,Organism4,Blood,culture,28
+13,Not eligible,Dhaka,Referred,2014,Organism4,CSF,ICT,17
+19,Severe Pneumonia,Mymensingh,Referred,2014,Organism4,CSF,culture,5
+17,Not eligible,Barisal,DORB,2014,Organism4,Blood,culture,27
+51,Meningitis,Dhaka,DORB,2014,Organism4,Blood,culture,25
+11,Not eligible,Barisal,Referred,2014,Organism4,CSF,ICT,21
+50,Severe Pneumonia,Dhaka,Referred,2014,Organism4,Blood,culture,10
+1,Missing,Barisal,Referred,2014,Organism4,Blood,culture,12
+47,Meningitis,Chittagong,Died,2014,Organism4,Blood,culture,15
+1,Missing,Rangpur,Discharged,2014,Organism4,both,PCR,21
+49,Severe Pneumonia,Chittagong,Discharged,2014,Organism4,both,PCR,10
+53,Not eligible,Mymensingh,Discharged,2014,Organism4,both,PCR,1
+37,Not eligible,Sylhet,Discharged,2014,Organism4,CSF,culture,1
+52,Very Severe Disease,Barisal,Referred,2014,Organism4,Blood,culture,30
+28,Severe Pneumonia,Chittagong,Died,2014,Organism4,both,ICT,14
+41,Missing,Dhaka,Died,2014,Organism4,Blood,culture,25
+42,Missing,Dhaka,Died,2014,Organism4,Blood,culture,15
+40,Severe Pneumonia,Chittagong,DORB,2014,Organism4,both,culture,8
+44,Severe Pneumonia,Chittagong,Died,2014,Organism4,Blood,culture,3
+35,Not eligible,Rangpur,DORB,2014,Organism4,both,culture,5
+5,Meningitis,Mymensingh,Discharged,2014,Organism4,CSF,ICT,23
+12,Missing,Dhaka,Referred,2014,Organism4,both,ICT,27
+57,Severe Pneumonia,Khulna,Referred,2014,Organism4,both,PCR,24
+8,Meningitis,Barisal,DORB,2014,Organism4,CSF,culture,2
+39,Not eligible,Chittagong,Discharged,2014,Organism4,both,culture,25
+19,Pneumonia,Barisal,Died,2014,Organism4,both,PCR,5
+53,Pneumonia,Chittagong,Died,2014,Organism4,Blood,culture,26
+48,Very Severe Disease,Khulna,Referred,2014,Organism4,both,ICT,6
+38,Very Severe Disease,Mymensingh,DORB,2014,Organism4,Blood,culture,21
+36,Severe Pneumonia,Rangpur,DORB,2014,Organism4,CSF,PCR,8
+34,Meningitis,Rajshahi,Referred,2014,Organism4,CSF,culture,7
+43,Not eligible,Barisal,DORB,2014,Organism4,both,PCR,3
+48,Meningitis,Rajshahi,Referred,2014,Organism4,both,ICT,14
+4,Very Severe Disease,Rajshahi,Referred,2015,Organism5,CSF,ICT,23
+46,Meningitis,Rajshahi,Died,2015,Organism5,both,ICT,15
+28,Not eligible,Barisal,Referred,2015,Organism5,CSF,culture,6
+10,Pneumonia,Barisal,Discharged,2015,Organism5,CSF,culture,25
+48,Missing,Dhaka,Died,2015,Organism5,CSF,PCR,20
+10,Very Severe Disease,Rajshahi,DORB,2015,Organism5,both,PCR,17
+22,Not eligible,Mymensingh,Discharged,2015,Organism5,Blood,culture,17
+31,Not eligible,Sylhet,Referred,2015,Organism5,CSF,ICT,25
+4,Pneumonia,Chittagong,Discharged,2015,Organism5,CSF,PCR,28
+48,Missing,Barisal,Died,2015,Organism5,Blood,culture,5
+34,Pneumonia,Chittagong,Died,2015,Organism5,CSF,culture,21
+45,Pneumonia,Dhaka,Died,2015,Organism5,CSF,culture,23
+16,Severe Pneumonia,Rangpur,Referred,2015,Organism5,both,culture,5
+57,Not eligible,Rajshahi,Died,2015,Organism5,both,ICT,8
+23,Not eligible,Rajshahi,Died,2015,Organism5,CSF,PCR,6
+13,Very Severe Disease,Rangpur,Discharged,2015,Organism5,both,PCR,8
+43,Not eligible,Chittagong,Referred,2015,Organism5,both,culture,19
+6,Missing,Chittagong,DORB,2015,Organism5,CSF,ICT,29
+7,Missing,Barisal,Referred,2015,Organism5,CSF,PCR,30
+59,Pneumonia,Rangpur,Referred,2015,Organism5,both,culture,14
+7,Pneumonia,Dhaka,Referred,2015,Organism5,both,ICT,10
+14,Pneumonia,Dhaka,Discharged,2015,Organism5,both,culture,10
+11,Missing,Dhaka,Discharged,2015,Organism5,both,ICT,1
+38,Missing,Mymensingh,Discharged,2015,Organism5,Blood,culture,4
+21,Very Severe Disease,Khulna,Died,2015,Organism5,both,ICT,2
+1,Not eligible,Khulna,DORB,2015,Organism5,CSF,PCR,22
+43,Severe Pneumonia,Khulna,Referred,2015,Organism5,Blood,culture,3
+38,Missing,Chittagong,Discharged,2015,Organism5,CSF,PCR,24
+34,Not eligible,Dhaka,Referred,2015,Organism5,CSF,PCR,15
+43,Missing,Mymensingh,Discharged,2015,Organism5,both,PCR,16
+16,Missing,Mymensingh,Referred,2015,Organism5,CSF,ICT,4
+31,Severe Pneumonia,Barisal,Died,2015,Organism5,both,culture,11
+3,Not eligible,Sylhet,Died,2015,Organism5,Blood,culture,26
+29,Pneumonia,Rangpur,Discharged,2015,Organism5,both,PCR,22
+23,Missing,Sylhet,DORB,2015,Organism5,both,culture,15
+55,Very Severe Disease,Rajshahi,DORB,2015,Organism5,both,culture,30
+49,Very Severe Disease,Khulna,Discharged,2015,Organism5,both,PCR,20
+54,Severe Pneumonia,Chittagong,Referred,2015,Organism5,both,ICT,17
+34,Missing,Dhaka,Referred,2015,Organism5,CSF,PCR,20
+20,Not eligible,Chittagong,DORB,2015,Organism5,Blood,culture,25
+46,Not eligible,Khulna,Died,2015,Organism5,both,culture,16
+43,Severe Pneumonia,Dhaka,Referred,2015,Organism5,CSF,ICT,23
+20,Pneumonia,Rajshahi,Died,2015,Organism5,CSF,culture,17
+30,Not eligible,Khulna,Died,2015,Organism5,Blood,culture,6
+18,Severe Pneumonia,Sylhet,Died,2015,Organism5,CSF,culture,15
+44,Meningitis,Barisal,Discharged,2015,Organism5,both,ICT,5
+30,Very Severe Disease,Khulna,Died,2015,Organism5,Blood,culture,22
+13,Pneumonia,Mymensingh,Discharged,2015,Organism5,Blood,culture,5
+2,Very Severe Disease,Rajshahi,DORB,2015,Organism5,CSF,culture,30
+57,Not eligible,Chittagong,DORB,2015,Organism5,CSF,ICT,29
+5,Missing,Khulna,DORB,2015,Organism4,CSF,ICT,13
+58,Meningitis,Mymensingh,DORB,2015,Organism5,CSF,culture,9
+20,Very Severe Disease,Sylhet,DORB,2015,Organism4,Blood,culture,2
+58,Pneumonia,Sylhet,Referred,2015,Organism4,both,PCR,2
+46,Missing,Barisal,Discharged,2015,Organism4,Blood,culture,6
+31,Pneumonia,Mymensingh,Referred,2015,Organism4,both,culture,23
+26,Not eligible,Sylhet,DORB,2015,Organism4,Blood,culture,6
+47,Missing,Rangpur,Referred,2015,Organism4,Blood,culture,20
+30,Severe Pneumonia,Khulna,Died,2015,Organism4,both,PCR,7
+26,Meningitis,Khulna,DORB,2015,Organism4,CSF,PCR,9
+34,Not eligible,Rangpur,DORB,2015,Organism4,Blood,culture,6
+40,Pneumonia,Sylhet,Referred,2015,Organism4,CSF,ICT,2
+43,Severe Pneumonia,Rajshahi,Died,2015,Organism4,both,PCR,8
+54,Not eligible,Mymensingh,Discharged,2015,Organism4,CSF,culture,10
+43,Very Severe Disease,Rajshahi,Referred,2015,Organism4,both,ICT,23
+57,Missing,Khulna,Discharged,2015,Organism4,CSF,culture,20
+26,Not eligible,Dhaka,Died,2015,Organism4,Blood,culture,27
+52,Meningitis,Barisal,Discharged,2015,Organism4,CSF,culture,15
+7,Not eligible,Chittagong,Referred,2015,Organism4,both,culture,7
+27,Pneumonia,Dhaka,DORB,2015,Organism5,CSF,culture,6
+14,Severe Pneumonia,Sylhet,DORB,2015,Organism4,Blood,culture,3
+25,Not eligible,Dhaka,Died,2015,Organism4,Blood,culture,30
+41,Missing,Rajshahi,Discharged,2015,Organism4,CSF,culture,4
+6,Meningitis,Khulna,Died,2015,Organism4,CSF,ICT,12
+46,Not eligible,Dhaka,Discharged,2015,Organism5,both,PCR,17
+57,Meningitis,Chittagong,Died,2015,Organism5,Blood,culture,4
+30,Pneumonia,Rangpur,Died,2015,Organism5,both,culture,8
+1,Meningitis,Barisal,DORB,2015,Organism5,Blood,culture,19
+14,Very Severe Disease,Rangpur,Referred,2015,Organism5,both,ICT,9
+47,Pneumonia,Rangpur,DORB,2015,Organism4,both,PCR,30
+36,Missing,Rangpur,Died,2015,Organism4,CSF,culture,24
+42,Severe Pneumonia,Sylhet,Referred,2015,Organism4,both,PCR,11
+33,Severe Pneumonia,Mymensingh,Died,2015,Organism4,CSF,ICT,3
+20,Not eligible,Khulna,Referred,2015,Organism5,both,ICT,14
+28,Missing,Khulna,Died,2015,Organism4,Blood,culture,12
+11,Missing,Rajshahi,Discharged,2015,Organism4,both,culture,13
+30,Very Severe Disease,Rangpur,Referred,2015,Organism4,both,ICT,18
+45,Meningitis,Dhaka,Discharged,2015,Organism4,Blood,culture,8
+46,Not eligible,Rangpur,Died,2015,Organism4,CSF,culture,29
+40,Pneumonia,Rangpur,Referred,2015,Organism4,Blood,culture,3
+40,Severe Pneumonia,Khulna,Discharged,2015,Organism4,both,culture,4
+56,Pneumonia,Rajshahi,DORB,2015,Organism4,CSF,culture,13
+30,Meningitis,Chittagong,Died,2015,Organism4,Blood,culture,12
+34,Missing,Mymensingh,Discharged,2015,Organism4,Blood,culture,2
+48,Pneumonia,Dhaka,DORB,2015,Organism4,CSF,PCR,18
+31,Pneumonia,Dhaka,Referred,2015,Organism4,Blood,culture,23
+31,Severe Pneumonia,Sylhet,DORB,2015,Organism4,Blood,culture,4
+25,Meningitis,Rangpur,Discharged,2015,Organism4,CSF,ICT,20
+39,Not eligible,Sylhet,DORB,2016,Organism5,CSF,culture,12
+30,Very Severe Disease,Rangpur,DORB,2016,Organism5,both,ICT,21
+15,Pneumonia,Rajshahi,DORB,2016,Organism5,both,ICT,26
+49,Missing,Khulna,DORB,2016,Organism5,Blood,culture,15
+24,Pneumonia,Dhaka,Referred,2016,Organism5,Blood,culture,30
+21,Meningitis,Sylhet,Discharged,2016,Organism5,CSF,PCR,10
+39,Not eligible,Rangpur,Died,2016,Organism5,Blood,culture,30
+21,Missing,Mymensingh,DORB,2016,Organism5,both,culture,4
+3,Not eligible,Khulna,Died,2016,Organism5,CSF,culture,25
+2,Pneumonia,Barisal,Discharged,2016,Organism5,CSF,culture,22
+14,Meningitis,Mymensingh,DORB,2016,Organism5,both,culture,9
+25,Enteric Fever,Barisal,DORB,2016,Organism5,both,ICT,12
+39,Missing,Rajshahi,Discharged,2016,Organism5,both,culture,2
+41,Very Severe Disease,Barisal,Died,2016,Organism5,Blood,culture,23
+50,Pneumonia,Mymensingh,Discharged,2016,Organism5,CSF,culture,2
+45,Meningitis,Mymensingh,Died,2016,Organism5,both,culture,6
+54,Pneumonia,Dhaka,Discharged,2016,Organism5,both,PCR,15
+2,Severe Pneumonia,Rajshahi,Discharged,2016,Organism5,CSF,ICT,26
+40,Missing,Dhaka,Referred,2016,Organism5,Blood,culture,17
+21,Pneumonia,Sylhet,Died,2016,Organism5,Blood,culture,1
+57,Missing,Mymensingh,Referred,2016,Organism5,Blood,culture,29
+8,Severe Pneumonia,Barisal,Referred,2016,Organism5,both,culture,1
+43,Severe Pneumonia,Khulna,Discharged,2016,Organism5,both,culture,19
+25,Very Severe Disease,Khulna,Referred,2016,Organism5,both,PCR,29
+16,Severe Pneumonia,Mymensingh,Died,2016,Organism5,Blood,culture,16
+44,Meningitis,Rangpur,Discharged,2016,Organism5,CSF,ICT,17
+56,Very Severe Disease,Barisal,DORB,2016,Organism5,Blood,culture,28
+38,Pneumonia,Rajshahi,Died,2016,Organism5,both,culture,13
+36,Meningitis,Rajshahi,DORB,2016,Organism5,Blood,culture,18
+42,Missing,Rajshahi,Died,2016,Organism5,Blood,culture,2
+41,Not eligible,Dhaka,Referred,2016,Organism5,CSF,culture,15
+17,Not eligible,Barisal,Discharged,2016,Organism5,CSF,culture,19
+37,Pneumonia,Rajshahi,DORB,2016,Organism5,CSF,ICT,27
+10,Severe Pneumonia,Khulna,Discharged,2016,Organism5,CSF,ICT,27
+29,Very Severe Disease,Rajshahi,Discharged,2016,Organism5,CSF,ICT,22
+32,Meningitis,Chittagong,Died,2016,Organism5,both,culture,20
+33,Enteric Fever,Khulna,Discharged,2016,Organism5,Blood,culture,16
+37,Pneumonia,Rangpur,Referred,2016,Organism5,Blood,culture,8
+38,Missing,Barisal,Discharged,2016,Organism5,Blood,culture,4
+39,Very Severe Disease,Khulna,DORB,2016,Organism5,both,culture,27
+36,Pneumonia,Dhaka,Referred,2016,Organism5,CSF,PCR,27
+3,Severe Pneumonia,Mymensingh,Died,2016,Organism5,both,ICT,23
+38,Very Severe Disease,Sylhet,DORB,2016,Organism5,both,culture,6
+56,Enteric Fever,Mymensingh,Referred,2016,Organism5,Blood,culture,16
+56,Enteric Fever,Rangpur,DORB,2016,Organism5,both,PCR,7
+8,Enteric Fever,Dhaka,Referred,2016,Organism5,both,PCR,12
+7,Enteric Fever,Rangpur,Died,2016,Organism5,CSF,PCR,17
+45,Severe Pneumonia,Chittagong,DORB,2016,Organism5,both,PCR,28
+32,Enteric Fever,Khulna,Referred,2016,Organism5,Blood,culture,22
+37,Missing,Rangpur,Referred,2016,Organism5,CSF,culture,25
+20,Missing,Khulna,Discharged,2016,Organism5,Blood,culture,15
+21,Very Severe Disease,Barisal,DORB,2016,Organism5,CSF,PCR,7
+24,Pneumonia,Rajshahi,Died,2016,Organism5,CSF,culture,4
+19,Missing,Sylhet,Discharged,2016,Organism5,Blood,culture,7
+18,Very Severe Disease,Mymensingh,Died,2016,Organism5,both,PCR,20
+21,Not eligible,Dhaka,Referred,2016,Organism5,Blood,culture,27
+15,Pneumonia,Sylhet,DORB,2016,Organism5,CSF,ICT,29
+38,Meningitis,Dhaka,Referred,2016,Organism5,Blood,culture,29
+29,Severe Pneumonia,Khulna,Died,2016,Organism5,CSF,PCR,7
+16,Enteric Fever,Dhaka,Died,2016,Organism5,CSF,ICT,19
+40,Severe Pneumonia,Barisal,Died,2016,Organism5,CSF,PCR,9
+19,Enteric Fever,Rajshahi,Referred,2016,Organism5,CSF,PCR,15
+30,Enteric Fever,Mymensingh,Died,2016,Organism5,CSF,PCR,30
+43,Enteric Fever,Chittagong,Referred,2016,Organism5,both,PCR,15
+59,Very Severe Disease,Barisal,Referred,2016,Organism5,both,culture,2
+22,Meningitis,Rangpur,Referred,2016,Organism5,Blood,culture,1
+32,Very Severe Disease,Sylhet,Referred,2016,Organism5,Blood,culture,17
+42,Very Severe Disease,Rangpur,Died,2016,Organism5,CSF,PCR,12
+26,Not eligible,Dhaka,Died,2016,Organism5,both,culture,5
+4,Enteric Fever,Sylhet,Referred,2016,Organism5,both,PCR,19
+37,Severe Pneumonia,Chittagong,DORB,2017,Organism6,Blood,culture,3
+30,Pneumonia,Barisal,DORB,2017,Organism6,both,ICT,26
+16,Pneumonia,Dhaka,Discharged,2017,Organism6,CSF,PCR,1
+33,Enteric Fever,Rangpur,DORB,2017,Organism6,both,PCR,21
+48,Not eligible,Rangpur,Died,2017,Organism6,Blood,culture,3
+14,Pneumonia,Rajshahi,Referred,2017,Organism6,Blood,culture,2
+16,Severe Pneumonia,Barisal,Referred,2017,Organism6,both,PCR,16
+46,Severe Pneumonia,Mymensingh,DORB,2017,Organism6,CSF,PCR,12
+13,Meningitis,Rangpur,Died,2017,Organism6,CSF,PCR,16
+40,Meningitis,Dhaka,Referred,2017,Organism6,both,ICT,18
+49,Enteric Fever,Khulna,Died,2017,Organism6,Blood,culture,20
+22,Severe Pneumonia,Mymensingh,DORB,2017,Organism6,Blood,culture,10
+36,Enteric Fever,Sylhet,DORB,2017,Organism6,both,culture,11
+47,Pneumonia,Rangpur,DORB,2017,Organism6,both,PCR,3
+38,Missing,Barisal,DORB,2017,Organism6,both,culture,29
+39,Severe Pneumonia,Mymensingh,Died,2017,Organism6,CSF,culture,14
+24,Missing,Khulna,Discharged,2017,Organism6,CSF,PCR,24
+46,Severe Pneumonia,Sylhet,Referred,2017,Organism6,both,culture,16
+12,Meningitis,Khulna,Referred,2017,Organism6,Blood,culture,24
+19,Very Severe Disease,Mymensingh,Referred,2017,Organism6,Blood,culture,7
+8,Meningitis,Rangpur,DORB,2017,Organism6,both,PCR,13
+7,Pneumonia,Dhaka,Discharged,2017,Organism6,CSF,culture,11
+23,Severe Pneumonia,Mymensingh,Died,2017,Organism6,both,PCR,21
+1,Very Severe Disease,Rangpur,Died,2017,Organism6,both,PCR,19
+41,Not eligible,Dhaka,Died,2017,Organism6,both,culture,6
+50,Enteric Fever,Khulna,Discharged,2017,Organism6,both,ICT,11
+47,Missing,Chittagong,Died,2017,Organism6,both,ICT,14
+23,Missing,Barisal,Discharged,2017,Organism6,CSF,ICT,7
+5,Enteric Fever,Mymensingh,Discharged,2017,Organism6,Blood,culture,16
+20,Pneumonia,Chittagong,DORB,2017,Organism6,CSF,ICT,22
+58,Severe Pneumonia,Sylhet,Died,2017,Organism6,both,culture,15
+2,Enteric Fever,Rangpur,Died,2017,Organism6,both,culture,26
+37,Missing,Barisal,Discharged,2017,Organism6,both,PCR,4
+9,Very Severe Disease,Mymensingh,Discharged,2017,Organism6,both,ICT,6
+14,Enteric Fever,Rajshahi,Discharged,2017,Organism6,Blood,culture,15
+10,Meningitis,Barisal,DORB,2017,Organism5,CSF,culture,26
+19,Pneumonia,Khulna,Died,2017,Organism6,CSF,ICT,19
+45,Pneumonia,Chittagong,Referred,2017,Organism5,Blood,culture,9
+35,Missing,Chittagong,DORB,2017,Organism5,both,culture,29
+52,Meningitis,Rajshahi,DORB,2017,Organism5,both,culture,11
+59,Pneumonia,Khulna,Referred,2017,Organism5,Blood,culture,11
+31,Meningitis,Khulna,DORB,2017,Organism5,both,ICT,15
+14,Pneumonia,Barisal,Discharged,2017,Organism5,both,culture,7
+38,Not eligible,Sylhet,Referred,2017,Organism5,Blood,culture,12
+29,Severe Pneumonia,Chittagong,Died,2017,Organism5,CSF,ICT,10
+46,Meningitis,Sylhet,Discharged,2017,Organism5,CSF,PCR,26
+49,Not eligible,Sylhet,Discharged,2017,Organism5,both,culture,1
+16,Severe Pneumonia,Rangpur,DORB,2017,Organism5,CSF,PCR,10
+51,Enteric Fever,Barisal,Referred,2017,Organism5,CSF,ICT,21
+6,Enteric Fever,Chittagong,Discharged,2017,Organism5,CSF,ICT,18
+26,Meningitis,Rangpur,Died,2017,Organism5,CSF,PCR,14
+30,Very Severe Disease,Chittagong,Died,2017,Organism5,both,ICT,5
+52,Enteric Fever,Rajshahi,Referred,2017,Organism5,Blood,culture,15
+8,Meningitis,Sylhet,Referred,2017,Organism5,Blood,culture,13
+19,Very Severe Disease,Khulna,DORB,2017,Organism5,both,ICT,22
+14,Missing,Rangpur,Discharged,2017,Organism5,both,culture,12
+6,Pneumonia,Rajshahi,DORB,2017,Organism5,both,culture,18
+20,Enteric Fever,Rangpur,Referred,2017,Organism5,CSF,culture,19
+29,Pneumonia,Sylhet,Discharged,2017,Organism5,Blood,culture,4
+28,Pneumonia,Barisal,Referred,2017,Organism5,CSF,ICT,13
+16,Very Severe Disease,Rangpur,Discharged,2017,Organism5,CSF,culture,5
+51,Pneumonia,Chittagong,Referred,2017,Organism5,Blood,culture,11
+8,Missing,Mymensingh,Referred,2017,Organism5,both,ICT,29
+34,Pneumonia,Dhaka,DORB,2017,Organism5,CSF,ICT,10
+20,Severe Pneumonia,Khulna,Referred,2017,Organism5,CSF,PCR,21
+51,Pneumonia,Barisal,Died,2017,Organism5,CSF,PCR,22
+40,Very Severe Disease,Chittagong,Died,2017,Organism5,Blood,culture,1
+20,Severe Pneumonia,Khulna,Referred,2017,Organism5,CSF,culture,4
+1,Meningitis,Dhaka,Died,2017,Organism5,both,ICT,19
+6,Not eligible,Chittagong,DORB,2017,Organism5,Blood,culture,16
+47,Very Severe Disease,Dhaka,DORB,2017,Organism5,Blood,culture,5
+34,Very Severe Disease,Khulna,DORB,2017,Organism5,Blood,culture,21
+25,Enteric Fever,Rangpur,Discharged,2017,Organism5,both,PCR,27
+54,Pneumonia,Khulna,Referred,2017,Organism5,CSF,ICT,22
+45,Pneumonia,Rajshahi,DORB,2018,Organism6,Blood,culture,8
+30,Severe Pneumonia,Chittagong,DORB,2018,Organism6,CSF,ICT,8
+12,Enteric Fever,Sylhet,Discharged,2018,Organism6,CSF,ICT,4
+16,Very Severe Disease,Rangpur,Died,2018,Organism6,Blood,culture,1
+13,Pneumonia,Chittagong,DORB,2018,Organism6,both,culture,29
+18,Very Severe Disease,Rajshahi,Discharged,2018,Organism6,Blood,culture,21
+5,Not eligible,Mymensingh,Discharged,2018,Organism6,Blood,culture,15
+53,Enteric Fever,Rangpur,Died,2018,Organism6,CSF,ICT,12
+24,Enteric Fever,Dhaka,Referred,2018,Organism6,both,culture,24
+25,Meningitis,Khulna,Discharged,2018,Organism6,Blood,culture,14
+42,Severe Pneumonia,Mymensingh,DORB,2018,Organism6,Blood,culture,22
+51,Enteric Fever,Rangpur,Referred,2018,Organism6,CSF,ICT,15
+24,Meningitis,Barisal,Referred,2018,Organism6,both,PCR,7
+24,Enteric Fever,Khulna,Referred,2018,Organism6,both,PCR,29
+41,Severe Pneumonia,Dhaka,Discharged,2018,Organism6,CSF,ICT,17
+17,Missing,Mymensingh,Referred,2018,Organism6,Blood,culture,21
+57,Pneumonia,Dhaka,Referred,2018,Organism6,Blood,culture,12
+25,Severe Pneumonia,Mymensingh,Referred,2018,Organism6,Blood,culture,30
+42,Enteric Fever,Dhaka,Referred,2018,Organism6,CSF,PCR,18
+57,Meningitis,Sylhet,Died,2018,Organism6,CSF,culture,15
+12,Severe Pneumonia,Rangpur,Discharged,2018,Organism6,CSF,PCR,25
+44,Enteric Fever,Mymensingh,Referred,2018,Organism6,CSF,PCR,4
+28,Not eligible,Barisal,Referred,2018,Organism6,both,ICT,8
+1,Missing,Sylhet,Discharged,2018,Organism6,Blood,culture,5
+38,Pneumonia,Rangpur,DORB,2018,Organism6,CSF,culture,12
+42,Not eligible,Barisal,Discharged,2018,Organism6,CSF,PCR,24
+26,Not eligible,Chittagong,Referred,2018,Organism6,CSF,ICT,10
+24,Meningitis,Dhaka,Discharged,2018,Organism6,Blood,culture,7
+19,Pneumonia,Chittagong,Discharged,2018,Organism6,CSF,ICT,19
+53,Meningitis,Rangpur,Discharged,2018,Organism6,both,ICT,13
+46,Enteric Fever,Dhaka,Discharged,2018,Organism6,both,PCR,5
+16,Pneumonia,Rangpur,Died,2018,Organism6,Blood,culture,8
+8,Not eligible,Barisal,Died,2018,Organism6,both,PCR,18
+17,Pneumonia,Rangpur,DORB,2018,Organism6,Blood,culture,28
+6,Missing,Rangpur,Referred,2018,Organism6,CSF,PCR,1
+25,Not eligible,Mymensingh,Died,2018,Organism6,both,PCR,21
+15,Enteric Fever,Rajshahi,Discharged,2018,Organism6,both,PCR,18
+57,Enteric Fever,Dhaka,DORB,2018,Organism6,both,culture,1
+48,Very Severe Disease,Khulna,Died,2018,Organism6,Blood,culture,14
+31,Very Severe Disease,Rangpur,DORB,2018,Organism6,Blood,culture,10
+5,Meningitis,Chittagong,Discharged,2018,Organism6,both,culture,16
+19,Not eligible,Rajshahi,Discharged,2018,Organism6,both,PCR,28
+48,Missing,Khulna,Discharged,2018,Organism6,both,PCR,27
+35,Not eligible,Rajshahi,Referred,2018,Organism6,CSF,PCR,1
+15,Very Severe Disease,Rajshahi,Discharged,2018,Organism6,Blood,culture,28
+32,Missing,Khulna,DORB,2018,Organism6,Blood,culture,8
+29,Not eligible,Dhaka,DORB,2018,Organism6,Blood,culture,8
+5,Very Severe Disease,Khulna,Died,2018,Organism6,CSF,PCR,7
+59,Severe Pneumonia,Rajshahi,Referred,2018,Organism6,both,ICT,8
+25,Missing,Sylhet,Discharged,2018,Organism6,CSF,culture,27
+11,Not eligible,Barisal,Discharged,2018,Organism6,CSF,PCR,7
+48,Meningitis,Rangpur,Died,2018,Organism6,both,ICT,28
+51,Meningitis,Sylhet,Died,2018,Organism6,both,ICT,16
+57,Missing,Chittagong,Referred,2018,Organism6,both,ICT,30
+21,Pneumonia,Chittagong,Discharged,2018,Organism6,CSF,PCR,6
+20,Severe Pneumonia,Barisal,DORB,2018,Organism6,Blood,culture,3
+1,Missing,Rangpur,Discharged,2018,Organism6,Blood,culture,7
+34,Enteric Fever,Rangpur,Discharged,2018,Organism6,both,PCR,15
+57,Not eligible,Rajshahi,Died,2018,Organism6,both,PCR,17
+36,Very Severe Disease,Rangpur,Died,2018,Organism6,both,culture,1
+48,Not eligible,Rangpur,Referred,2018,Organism6,CSF,culture,25
+54,Severe Pneumonia,Rajshahi,Died,2018,Organism6,CSF,PCR,29
+37,Pneumonia,Sylhet,DORB,2018,Organism6,Blood,culture,18
+57,Meningitis,Barisal,DORB,2018,Organism6,Blood,culture,19
+27,Enteric Fever,Chittagong,Discharged,2018,Organism6,Blood,culture,3
+10,Enteric Fever,Chittagong,Died,2018,Organism6,Blood,culture,13
+9,Very Severe Disease,Khulna,Referred,2019,Organism7,both,ICT,16
+40,Missing,Mymensingh,Referred,2019,Organism7,both,PCR,13
+35,Very Severe Disease,Khulna,Died,2019,Organism7,Blood,culture,10
+20,Pneumonia,Chittagong,DORB,2019,Organism7,CSF,culture,24
+35,Enteric Fever,Khulna,Discharged,2019,Organism7,Blood,culture,12
+21,Meningitis,Mymensingh,Referred,2019,Organism7,CSF,culture,27
+17,Severe Pneumonia,Sylhet,Referred,2019,Organism7,both,ICT,8
+50,Very Severe Disease,Barisal,Died,2019,Organism7,CSF,ICT,18
+45,Not eligible,Khulna,DORB,2019,Organism7,Blood,culture,21
+12,Pneumonia,Khulna,Discharged,2019,Organism7,both,ICT,4
+16,Meningitis,Chittagong,Referred,2019,Organism7,Blood,culture,24
+31,Very Severe Disease,Sylhet,DORB,2019,Organism7,Blood,culture,19
+38,Pneumonia,Khulna,Died,2019,Organism7,both,PCR,7
+43,Meningitis,Chittagong,DORB,2019,Organism7,CSF,ICT,28
+42,Very Severe Disease,Sylhet,Died,2019,Organism7,both,ICT,15
+54,Not eligible,Mymensingh,DORB,2019,Organism7,both,culture,5
+3,Severe Pneumonia,Chittagong,DORB,2019,Organism7,CSF,culture,14
+6,Not eligible,Khulna,Referred,2019,Organism7,both,ICT,18
+49,Very Severe Disease,Mymensingh,DORB,2019,Organism7,Blood,culture,9
+58,Pneumonia,Dhaka,Died,2019,Organism7,CSF,culture,26
+43,Very Severe Disease,Rangpur,Died,2019,Organism7,both,culture,2
+11,Not eligible,Khulna,Referred,2019,Organism7,CSF,PCR,23
+52,Enteric Fever,Rajshahi,Discharged,2019,Organism7,Blood,culture,9
+18,Missing,Sylhet,Referred,2019,Organism7,Blood,culture,24
+51,Severe Pneumonia,Rajshahi,Discharged,2019,Organism7,CSF,culture,1
+41,Missing,Sylhet,Discharged,2019,Organism7,both,culture,7
+21,Enteric Fever,Rajshahi,Died,2019,Organism7,both,PCR,29
+42,Very Severe Disease,Chittagong,Died,2019,Organism7,both,ICT,20
+4,Meningitis,Khulna,DORB,2019,Organism7,both,PCR,7
+59,Enteric Fever,Barisal,Referred,2019,Organism7,Blood,culture,29
+26,Severe Pneumonia,Khulna,Died,2019,Organism7,CSF,culture,19
+47,Meningitis,Dhaka,DORB,2019,Organism7,both,culture,23
+32,Enteric Fever,Rangpur,DORB,2019,Organism7,Blood,culture,28
+28,Meningitis,Dhaka,DORB,2019,Organism7,Blood,culture,22
+5,Meningitis,Dhaka,Referred,2019,Organism7,CSF,ICT,15
+59,Enteric Fever,Rajshahi,Referred,2019,Organism7,both,ICT,23
+45,Not eligible,Chittagong,Discharged,2019,Organism7,both,ICT,7
+36,Pneumonia,Rangpur,DORB,2019,Organism7,CSF,ICT,11
+21,Pneumonia,Sylhet,DORB,2019,Organism7,CSF,PCR,10
+9,Pneumonia,Rajshahi,Referred,2019,Organism7,both,culture,18
+11,Meningitis,Rangpur,Discharged,2019,Organism7,both,PCR,28
+33,Pneumonia,Rajshahi,Referred,2019,Organism7,both,culture,11
+33,Not eligible,Sylhet,DORB,2019,Organism7,CSF,PCR,8
+49,Missing,Dhaka,Died,2019,Organism7,Blood,culture,4
+26,Missing,Barisal,Referred,2019,Organism7,CSF,culture,2
+27,Enteric Fever,Barisal,Discharged,2019,Organism7,both,ICT,1
+55,Pneumonia,Mymensingh,Died,2019,Organism7,Blood,culture,5
+47,Severe Pneumonia,Barisal,Discharged,2019,Organism6,Blood,culture,15
+23,Pneumonia,Dhaka,Died,2019,Organism6,Blood,culture,9
+57,Very Severe Disease,Sylhet,Discharged,2019,Organism6,Blood,culture,1
+32,Very Severe Disease,Chittagong,DORB,2019,Organism6,CSF,culture,29
+6,Very Severe Disease,Sylhet,Discharged,2019,Organism6,CSF,PCR,28
+19,Pneumonia,Barisal,Referred,2019,Organism7,CSF,culture,23
+43,Severe Pneumonia,Sylhet,Referred,2019,Organism7,Blood,culture,5
+46,Meningitis,Rajshahi,Referred,2019,Organism7,Blood,culture,29
+35,Meningitis,Sylhet,DORB,2019,Organism6,CSF,ICT,25
+51,Meningitis,Rajshahi,Discharged,2019,Organism7,Blood,culture,20
+26,Pneumonia,Rangpur,Referred,2019,Organism7,both,PCR,29
+46,Not eligible,Rangpur,Discharged,2019,Organism7,CSF,culture,22
+3,Meningitis,Rangpur,Discharged,2019,Organism7,both,PCR,18
+5,Enteric Fever,Rangpur,Discharged,2019,Organism7,Blood,culture,12
+9,Pneumonia,Rangpur,Discharged,2019,Organism7,CSF,ICT,27
+21,Enteric Fever,Rajshahi,DORB,2019,Organism7,both,ICT,2
+7,Pneumonia,Barisal,Referred,2019,Organism7,Blood,culture,5
+27,Very Severe Disease,Rajshahi,Discharged,2019,Organism7,both,culture,2
+21,Severe Pneumonia,Mymensingh,Died,2019,Organism7,Blood,culture,16
+19,Very Severe Disease,Sylhet,Died,2019,Organism7,CSF,culture,3
+2,Missing,Chittagong,Discharged,2019,Organism7,both,culture,6
+12,Severe Pneumonia,Rajshahi,Referred,2019,Organism7,CSF,ICT,23
+34,Meningitis,Rangpur,DORB,2019,Organism7,both,PCR,30
+38,Meningitis,Dhaka,Discharged,2019,Organism7,Blood,culture,10
+29,Enteric Fever,Rangpur,DORB,2019,Organism7,CSF,PCR,11
+12,Enteric Fever,Rangpur,Died,2019,Organism7,both,ICT,5
+32,Missing,Rajshahi,Referred,2020,Organism7,CSF,culture,29
+24,Severe Pneumonia,Khulna,Died,2020,Organism7,Blood,culture,20
+38,Meningitis,Mymensingh,DORB,2020,Organism7,CSF,ICT,1
+41,Meningitis,Sylhet,Referred,2020,Organism7,CSF,PCR,20
+20,Enteric Fever,Dhaka,Discharged,2020,Organism7,Blood,culture,13
+31,Meningitis,Khulna,DORB,2020,Organism7,both,culture,23
+32,Not eligible,Chittagong,DORB,2020,Organism7,both,culture,5
+16,Missing,Chittagong,Discharged,2020,Organism7,CSF,ICT,19
+4,Not eligible,Rajshahi,Discharged,2020,Organism7,both,culture,8
+20,Very Severe Disease,Rajshahi,Discharged,2020,Organism7,CSF,ICT,11
+24,Missing,Dhaka,DORB,2020,Organism7,CSF,PCR,19
+57,Not eligible,Rangpur,Referred,2020,Organism7,CSF,ICT,4
+19,Very Severe Disease,Rajshahi,Died,2020,Organism7,CSF,culture,29
+58,Very Severe Disease,Khulna,Referred,2020,Organism7,Blood,culture,19
+10,Meningitis,Rajshahi,DORB,2020,Organism7,both,culture,17
+25,Meningitis,Rangpur,DORB,2020,Organism7,CSF,PCR,22
+44,Very Severe Disease,Mymensingh,Died,2020,Organism7,Blood,culture,30
+53,Missing,Barisal,DORB,2020,Organism7,CSF,ICT,30
+55,Not eligible,Chittagong,DORB,2020,Organism7,Blood,culture,8
+2,Enteric Fever,Rangpur,Died,2020,Organism7,both,ICT,28
+35,Meningitis,Chittagong,DORB,2020,Organism7,CSF,culture,12
+29,Not eligible,Mymensingh,Discharged,2020,Organism7,CSF,PCR,10
+30,Not eligible,Khulna,Died,2020,Organism7,CSF,PCR,1
+3,Enteric Fever,Dhaka,DORB,2020,Organism7,CSF,ICT,13
+45,Not eligible,Khulna,Died,2020,Organism7,CSF,culture,22
+18,Meningitis,Dhaka,DORB,2020,Organism7,both,PCR,8
+3,Missing,Barisal,Died,2020,Organism7,both,ICT,22
+35,Meningitis,Dhaka,Discharged,2020,Organism7,CSF,culture,2
+59,Meningitis,Sylhet,Referred,2020,Organism7,both,ICT,7
+46,Meningitis,Mymensingh,Discharged,2020,Organism7,both,ICT,25
+44,Pneumonia,Khulna,Discharged,2020,Organism7,Blood,culture,20
+42,Not eligible,Barisal,DORB,2020,Organism7,CSF,ICT,18
+8,Not eligible,Rajshahi,DORB,2020,Organism7,Blood,culture,15
+54,Enteric Fever,Chittagong,Referred,2020,Organism7,Blood,culture,26
+49,Enteric Fever,Sylhet,DORB,2020,Organism7,Blood,culture,7
+53,Enteric Fever,Barisal,Discharged,2020,Organism7,CSF,ICT,27
+40,Severe Pneumonia,Rajshahi,DORB,2020,Organism7,CSF,ICT,9
+42,Severe Pneumonia,Rajshahi,Referred,2020,Organism7,both,culture,15
+19,Pneumonia,Dhaka,Died,2020,Organism7,Blood,culture,28
+48,Meningitis,Khulna,Discharged,2020,Organism7,CSF,PCR,7
+22,Meningitis,Sylhet,DORB,2020,Organism7,CSF,culture,17
+41,Enteric Fever,Chittagong,Died,2020,Organism7,CSF,ICT,10
+4,Meningitis,Rangpur,Discharged,2020,Organism7,Blood,culture,15
+56,Pneumonia,Rajshahi,Referred,2020,Organism7,CSF,ICT,11
+22,Severe Pneumonia,Rajshahi,Discharged,2020,Organism7,CSF,culture,11
+38,Severe Pneumonia,Rangpur,Referred,2020,Organism7,Blood,culture,17
+57,Not eligible,Barisal,DORB,2020,Organism7,Blood,culture,11
+28,Very Severe Disease,Barisal,Died,2020,Organism7,CSF,ICT,17
+6,Severe Pneumonia,Mymensingh,DORB,2020,Organism7,both,culture,4
+5,Severe Pneumonia,Khulna,Referred,2020,Organism7,CSF,culture,23
+14,Severe Pneumonia,Rajshahi,Referred,2020,Organism7,both,PCR,7
+21,Not eligible,Barisal,Died,2020,Organism7,CSF,culture,16
+9,Pneumonia,Rangpur,Died,2020,Organism7,CSF,PCR,26
+58,Enteric Fever,Dhaka,Died,2020,Organism7,CSF,culture,29
