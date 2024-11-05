@@ -1,7 +1,7 @@
 # Vaccination-Dataset-Preprocessing-Analysis-and-Prediction-Using-Machine-Learning
 
 ## Overview
-In this repository, we analyze a synthetic vaccination dataset from Bangladesh. This project involves cleaning the dataset, performing statistical analyses to uncover patterns, and applying machine learning models for predictive analysis. The goal is to explore how various factors relate to patient outcomes and to predict these outcomes based on available features.
+In this repository, we analyze a synthetic vaccination dataset from Bangladesh (Thanks to CHRF, Bangladesh). This project involves cleaning the dataset, performing statistical analyses to uncover patterns, and applying machine learning models for predictive analysis. The goal is to explore how various factors relate to patient outcomes and to predict these outcomes based on available features.
 
 ## Folder Structure
 The repository is organized as follows:
@@ -15,11 +15,10 @@ The repository is organized as follows:
 
 - **results**: Contains processed data and visualization notebooks.
   - **Final_patient_clean_data.csv**: The cleaned dataset that results from the preprocessing steps.
-  - **example_data_visualization.ipynb**: A Jupyter notebook that demonstrates data visualization techniques applied to the dataset.
+  - **example_data_visualization.ipynb**: A Jupyter notebook that demonstrates data visualization techniques on any datasets.
+  - **main.ipynb**: The main notebook where data preprocessing, analysis, and prediction tasks are conducted. It includes steps for loading, cleaning, analyzing, and predicting using machine learning models.
 
 - **LICENSE**: Licensing information for this repository.
-
-- **main.ipynb**: The main notebook where data preprocessing, analysis, and prediction tasks are conducted. It includes steps for loading, cleaning, analyzing, and predicting using machine learning models.
 
 - **README.md**: This file, providing an overview and instructions for the repository.
 
