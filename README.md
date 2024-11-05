@@ -1,7 +1,7 @@
 # Vaccination-Dataset-Preprocessing-Analysis-and-Prediction-Using-Machine-Learning
 
 ## Overview
-In this repository, we analyze a synthetic vaccination dataset from Bangladesh. This project involves cleaning the dataset, performing statistical analyses to uncover patterns, and applying machine learning models for predictive analysis. The goal is to explore how various factors relate to patient outcomes and to predict these outcomes based on available features.
+In this repository, we analyze a synthetic vaccination dataset from Bangladesh (Thanks to CHRF, Bangladesh). This project involves cleaning the dataset, performing statistical analyses to uncover patterns, and applying machine learning models for predictive analysis. The goal is to explore how various factors relate to patient outcomes and to predict these outcomes based on available features.
 
 ## Folder Structure
 The repository is organized as follows:
